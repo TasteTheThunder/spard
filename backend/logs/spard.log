@@ -1,0 +1,1850 @@
+2025-11-29 16:39:34,103 - __main__ - INFO - Starting SPARD application
+2025-11-29 16:39:34,103 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 16:39:34,108 - __main__ - INFO - SPARD application created successfully
+2025-11-29 16:39:34,108 - __main__ - INFO - Starting SPARD development server
+2025-11-29 16:39:34,108 - __main__ - INFO - Environment: development
+2025-11-29 16:39:34,108 - __main__ - INFO - Debug mode: True
+2025-11-29 16:39:34,148 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-11-29 16:39:34,148 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-29 16:39:34,183 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-29 16:39:37,608 - __main__ - INFO - Starting SPARD application
+2025-11-29 16:39:37,608 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 16:39:37,614 - __main__ - INFO - SPARD application created successfully
+2025-11-29 16:39:37,614 - __main__ - INFO - Starting SPARD development server
+2025-11-29 16:39:37,614 - __main__ - INFO - Environment: development
+2025-11-29 16:39:37,621 - __main__ - INFO - Debug mode: True
+2025-11-29 16:39:37,637 - werkzeug - WARNING -  * Debugger is active!
+2025-11-29 16:39:37,637 - werkzeug - INFO -  * Debugger PIN: 129-933-499
+2025-11-29 17:18:43,295 - __main__ - INFO - Starting SPARD application
+2025-11-29 17:18:43,295 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 17:18:43,295 - __main__ - INFO - SPARD application created successfully
+2025-11-29 17:18:43,295 - __main__ - INFO - Starting SPARD development server
+2025-11-29 17:18:43,295 - __main__ - INFO - Environment: development
+2025-11-29 17:18:43,295 - __main__ - INFO - Debug mode: True
+2025-11-29 17:18:43,307 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-11-29 17:18:43,307 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-29 17:18:43,327 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-29 17:18:44,640 - __main__ - INFO - Starting SPARD application
+2025-11-29 17:18:44,640 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 17:18:44,640 - __main__ - INFO - SPARD application created successfully
+2025-11-29 17:18:44,640 - __main__ - INFO - Starting SPARD development server
+2025-11-29 17:18:44,640 - __main__ - INFO - Environment: development
+2025-11-29 17:18:44,640 - __main__ - INFO - Debug mode: True
+2025-11-29 17:18:44,640 - werkzeug - WARNING -  * Debugger is active!
+2025-11-29 17:18:44,657 - werkzeug - INFO -  * Debugger PIN: 129-933-499
+2025-11-29 17:32:56,150 - app - INFO - Starting SPARD application
+2025-11-29 17:32:56,150 - app - INFO - Configuration loaded successfully
+2025-11-29 17:32:56,150 - app - INFO - SPARD application created successfully
+2025-11-29 17:34:56,692 - __main__ - INFO - Starting SPARD application
+2025-11-29 17:34:56,692 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 17:34:56,697 - __main__ - INFO - SPARD application created successfully
+2025-11-29 17:34:56,697 - __main__ - INFO - Starting SPARD development server
+2025-11-29 17:34:56,697 - __main__ - INFO - Environment: development
+2025-11-29 17:34:56,697 - __main__ - INFO - Debug mode: True
+2025-11-29 17:34:56,697 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-11-29 17:34:56,697 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-29 17:34:56,714 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-29 17:34:57,921 - __main__ - INFO - Starting SPARD application
+2025-11-29 17:34:57,921 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 17:34:57,931 - __main__ - INFO - SPARD application created successfully
+2025-11-29 17:34:57,931 - __main__ - INFO - Starting SPARD development server
+2025-11-29 17:34:57,931 - __main__ - INFO - Environment: development
+2025-11-29 17:34:57,931 - __main__ - INFO - Debug mode: True
+2025-11-29 17:34:57,931 - werkzeug - WARNING -  * Debugger is active!
+2025-11-29 17:34:57,939 - werkzeug - INFO -  * Debugger PIN: 129-933-499
+2025-11-29 17:41:14,522 - __main__ - INFO - Starting SPARD application
+2025-11-29 17:41:14,522 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 17:41:14,522 - __main__ - INFO - SPARD application created successfully
+2025-11-29 17:41:14,522 - __main__ - INFO - Starting SPARD development server
+2025-11-29 17:41:14,522 - __main__ - INFO - Environment: development
+2025-11-29 17:41:14,522 - __main__ - INFO - Debug mode: True
+2025-11-29 17:41:14,549 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-11-29 17:41:14,549 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-29 17:41:14,557 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-29 17:41:15,789 - __main__ - INFO - Starting SPARD application
+2025-11-29 17:41:15,789 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 17:41:15,789 - __main__ - INFO - SPARD application created successfully
+2025-11-29 17:41:15,789 - __main__ - INFO - Starting SPARD development server
+2025-11-29 17:41:15,789 - __main__ - INFO - Environment: development
+2025-11-29 17:41:15,789 - __main__ - INFO - Debug mode: True
+2025-11-29 17:41:15,808 - werkzeug - WARNING -  * Debugger is active!
+2025-11-29 17:41:15,810 - werkzeug - INFO -  * Debugger PIN: 129-933-499
+2025-11-29 17:57:49,801 - __main__ - INFO - Starting SPARD application
+2025-11-29 17:57:49,801 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 17:57:49,806 - __main__ - INFO - SPARD application created successfully
+2025-11-29 17:57:49,806 - __main__ - INFO - Starting SPARD development server
+2025-11-29 17:57:49,806 - __main__ - INFO - Environment: development
+2025-11-29 17:57:49,806 - __main__ - INFO - Debug mode: True
+2025-11-29 17:57:49,806 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-11-29 17:57:49,806 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-29 17:57:49,824 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-29 17:57:51,089 - __main__ - INFO - Starting SPARD application
+2025-11-29 17:57:51,089 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 17:57:51,089 - __main__ - INFO - SPARD application created successfully
+2025-11-29 17:57:51,089 - __main__ - INFO - Starting SPARD development server
+2025-11-29 17:57:51,089 - __main__ - INFO - Environment: development
+2025-11-29 17:57:51,089 - __main__ - INFO - Debug mode: True
+2025-11-29 17:57:51,089 - werkzeug - WARNING -  * Debugger is active!
+2025-11-29 17:57:51,107 - werkzeug - INFO -  * Debugger PIN: 129-933-499
+2025-11-29 18:00:39,214 - __main__ - INFO - Starting SPARD application
+2025-11-29 18:00:39,214 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 18:00:39,214 - __main__ - INFO - SPARD application created successfully
+2025-11-29 18:00:39,214 - __main__ - INFO - Starting SPARD development server
+2025-11-29 18:00:39,214 - __main__ - INFO - Environment: development
+2025-11-29 18:00:39,214 - __main__ - INFO - Debug mode: True
+2025-11-29 18:00:39,238 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-11-29 18:00:39,238 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-29 18:00:39,251 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-29 18:00:40,468 - __main__ - INFO - Starting SPARD application
+2025-11-29 18:00:40,468 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 18:00:40,470 - __main__ - INFO - SPARD application created successfully
+2025-11-29 18:00:40,470 - __main__ - INFO - Starting SPARD development server
+2025-11-29 18:00:40,470 - __main__ - INFO - Environment: development
+2025-11-29 18:00:40,470 - __main__ - INFO - Debug mode: True
+2025-11-29 18:00:40,474 - werkzeug - WARNING -  * Debugger is active!
+2025-11-29 18:00:40,476 - werkzeug - INFO -  * Debugger PIN: 129-933-499
+2025-11-29 18:07:17,494 - models.database - INFO - User created successfully: ID 1
+2025-11-29 18:07:17,494 - services.auth_service - INFO - User registered successfully: test@test.com
+2025-11-29 18:07:17,494 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:07:17] "[35m[1mPOST /auth/signup HTTP/1.1[0m" 201 -
+2025-11-29 18:07:24,871 - services.auth_service - ERROR - Authentication error: 'password'
+2025-11-29 18:07:24,872 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:07:24] "[31m[1mPOST /auth/login HTTP/1.1[0m" 401 -
+2025-11-29 18:07:55,794 - models.database - INFO - User created successfully: ID 2
+2025-11-29 18:07:55,794 - services.auth_service - INFO - User registered successfully: debug@test.com
+2025-11-29 18:07:55,794 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:07:55] "[35m[1mPOST /auth/signup HTTP/1.1[0m" 201 -
+2025-11-29 18:08:01,449 - services.auth_service - ERROR - Authentication error: 'password'
+2025-11-29 18:08:01,450 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:08:01] "[31m[1mPOST /auth/login HTTP/1.1[0m" 401 -
+2025-11-29 18:08:54,824 - __main__ - INFO - Starting SPARD application
+2025-11-29 18:08:54,824 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 18:08:54,831 - __main__ - INFO - SPARD application created successfully
+2025-11-29 18:08:54,831 - __main__ - INFO - Starting SPARD development server
+2025-11-29 18:08:54,831 - __main__ - INFO - Environment: development
+2025-11-29 18:08:54,831 - __main__ - INFO - Debug mode: True
+2025-11-29 18:08:54,844 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-11-29 18:08:54,844 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-29 18:08:54,846 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-29 18:08:56,068 - __main__ - INFO - Starting SPARD application
+2025-11-29 18:08:56,068 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 18:08:56,068 - __main__ - INFO - SPARD application created successfully
+2025-11-29 18:08:56,084 - __main__ - INFO - Starting SPARD development server
+2025-11-29 18:08:56,084 - __main__ - INFO - Environment: development
+2025-11-29 18:08:56,084 - __main__ - INFO - Debug mode: True
+2025-11-29 18:08:56,084 - werkzeug - WARNING -  * Debugger is active!
+2025-11-29 18:08:56,091 - werkzeug - INFO -  * Debugger PIN: 129-933-499
+2025-11-29 18:14:29,556 - __main__ - INFO - Starting SPARD application
+2025-11-29 18:14:29,556 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 18:14:29,570 - __main__ - INFO - SPARD application created successfully
+2025-11-29 18:14:29,570 - __main__ - INFO - Starting SPARD development server
+2025-11-29 18:14:29,570 - __main__ - INFO - Environment: development
+2025-11-29 18:14:29,570 - __main__ - INFO - Debug mode: True
+2025-11-29 18:14:29,572 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-11-29 18:14:29,572 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-29 18:14:29,592 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-29 18:14:30,812 - __main__ - INFO - Starting SPARD application
+2025-11-29 18:14:30,812 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 18:14:30,823 - __main__ - INFO - SPARD application created successfully
+2025-11-29 18:14:30,823 - __main__ - INFO - Starting SPARD development server
+2025-11-29 18:14:30,823 - __main__ - INFO - Environment: development
+2025-11-29 18:14:30,823 - __main__ - INFO - Debug mode: True
+2025-11-29 18:14:30,823 - werkzeug - WARNING -  * Debugger is active!
+2025-11-29 18:14:30,829 - werkzeug - INFO -  * Debugger PIN: 129-933-499
+2025-11-29 18:21:17,943 - __main__ - INFO - Starting SPARD application
+2025-11-29 18:21:17,943 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 18:21:17,945 - __main__ - INFO - SPARD application created successfully
+2025-11-29 18:21:17,946 - __main__ - INFO - Starting SPARD development server
+2025-11-29 18:21:17,946 - __main__ - INFO - Environment: development
+2025-11-29 18:21:17,946 - __main__ - INFO - Debug mode: True
+2025-11-29 18:21:17,956 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-11-29 18:21:17,956 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-29 18:21:17,963 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-29 18:21:19,198 - __main__ - INFO - Starting SPARD application
+2025-11-29 18:21:19,198 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 18:21:19,200 - __main__ - INFO - SPARD application created successfully
+2025-11-29 18:21:19,200 - __main__ - INFO - Starting SPARD development server
+2025-11-29 18:21:19,200 - __main__ - INFO - Environment: development
+2025-11-29 18:21:19,200 - __main__ - INFO - Debug mode: True
+2025-11-29 18:21:19,206 - werkzeug - WARNING -  * Debugger is active!
+2025-11-29 18:21:19,208 - werkzeug - INFO -  * Debugger PIN: 129-933-499
+2025-11-29 18:21:34,879 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:21:34] "GET / HTTP/1.1" 200 -
+2025-11-29 18:21:47,052 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:21:47] "GET / HTTP/1.1" 200 -
+2025-11-29 18:26:52,135 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\routes\\auth_routes.py', reloading
+2025-11-29 18:26:52,135 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\routes\\auth_routes.py', reloading
+2025-11-29 18:26:52,936 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-29 18:26:54,252 - __main__ - INFO - Starting SPARD application
+2025-11-29 18:26:54,252 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 18:26:54,252 - __main__ - INFO - SPARD application created successfully
+2025-11-29 18:26:54,252 - __main__ - INFO - Starting SPARD development server
+2025-11-29 18:26:54,252 - __main__ - INFO - Environment: development
+2025-11-29 18:26:54,252 - __main__ - INFO - Debug mode: True
+2025-11-29 18:26:54,252 - werkzeug - WARNING -  * Debugger is active!
+2025-11-29 18:26:54,261 - werkzeug - INFO -  * Debugger PIN: 129-933-499
+2025-11-29 18:27:04,593 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\routes\\auth_routes.py', reloading
+2025-11-29 18:27:04,601 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\routes\\auth_routes.py', reloading
+2025-11-29 18:27:05,584 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-29 18:27:06,885 - __main__ - INFO - Starting SPARD application
+2025-11-29 18:27:06,885 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 18:27:06,886 - __main__ - INFO - SPARD application created successfully
+2025-11-29 18:27:06,886 - __main__ - INFO - Starting SPARD development server
+2025-11-29 18:27:06,886 - __main__ - INFO - Environment: development
+2025-11-29 18:27:06,886 - __main__ - INFO - Debug mode: True
+2025-11-29 18:27:06,886 - werkzeug - WARNING -  * Debugger is active!
+2025-11-29 18:27:06,895 - werkzeug - INFO -  * Debugger PIN: 129-933-499
+2025-11-29 18:28:19,630 - __main__ - INFO - Starting SPARD application
+2025-11-29 18:28:19,630 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 18:28:19,646 - __main__ - INFO - SPARD application created successfully
+2025-11-29 18:28:19,646 - __main__ - INFO - Starting SPARD development server
+2025-11-29 18:28:19,646 - __main__ - INFO - Environment: development
+2025-11-29 18:28:19,646 - __main__ - INFO - Debug mode: True
+2025-11-29 18:28:19,658 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-11-29 18:28:19,658 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-29 18:28:19,668 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-29 18:28:20,903 - __main__ - INFO - Starting SPARD application
+2025-11-29 18:28:20,903 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 18:28:20,903 - __main__ - INFO - SPARD application created successfully
+2025-11-29 18:28:20,903 - __main__ - INFO - Starting SPARD development server
+2025-11-29 18:28:20,903 - __main__ - INFO - Environment: development
+2025-11-29 18:28:20,903 - __main__ - INFO - Debug mode: True
+2025-11-29 18:28:20,903 - werkzeug - WARNING -  * Debugger is active!
+2025-11-29 18:28:20,916 - werkzeug - INFO -  * Debugger PIN: 129-933-499
+2025-11-29 18:29:09,710 - app - INFO - Starting SPARD application
+2025-11-29 18:29:09,710 - app - INFO - Configuration loaded successfully
+2025-11-29 18:29:09,710 - app - INFO - SPARD application created successfully
+2025-11-29 18:29:09,726 - app - INFO - Starting SPARD application
+2025-11-29 18:29:09,726 - app - INFO - Configuration loaded successfully
+2025-11-29 18:29:09,728 - app - INFO - SPARD application created successfully
+2025-11-29 18:30:37,039 - __main__ - INFO - Starting SPARD application
+2025-11-29 18:30:37,039 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 18:30:37,040 - __main__ - INFO - SPARD application created successfully
+2025-11-29 18:30:37,042 - __main__ - INFO - Starting SPARD development server
+2025-11-29 18:30:37,042 - __main__ - INFO - Environment: development
+2025-11-29 18:30:37,042 - __main__ - INFO - Debug mode: True
+2025-11-29 18:30:37,051 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-11-29 18:30:37,052 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-29 18:30:37,061 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-29 18:30:38,235 - __main__ - INFO - Starting SPARD application
+2025-11-29 18:30:38,235 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 18:30:38,237 - __main__ - INFO - SPARD application created successfully
+2025-11-29 18:30:38,238 - __main__ - INFO - Starting SPARD development server
+2025-11-29 18:30:38,238 - __main__ - INFO - Environment: development
+2025-11-29 18:30:38,238 - __main__ - INFO - Debug mode: True
+2025-11-29 18:30:38,243 - werkzeug - WARNING -  * Debugger is active!
+2025-11-29 18:30:38,245 - werkzeug - INFO -  * Debugger PIN: 129-933-499
+2025-11-29 18:31:10,124 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:31:10] "GET / HTTP/1.1" 200 -
+2025-11-29 18:31:16,115 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:31:16] "GET / HTTP/1.1" 200 -
+2025-11-29 18:31:40,318 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:31:40] "GET / HTTP/1.1" 200 -
+2025-11-29 18:31:49,810 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:31:49] "GET / HTTP/1.1" 200 -
+2025-11-29 18:34:41,169 - __main__ - INFO - Starting SPARD application
+2025-11-29 18:34:41,169 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 18:34:41,180 - __main__ - INFO - SPARD application created successfully
+2025-11-29 18:34:41,180 - __main__ - INFO - Starting SPARD development server
+2025-11-29 18:34:41,180 - __main__ - INFO - Environment: development
+2025-11-29 18:34:41,180 - __main__ - INFO - Debug mode: True
+2025-11-29 18:34:41,192 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-11-29 18:34:41,192 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-29 18:34:41,196 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-29 18:34:42,443 - __main__ - INFO - Starting SPARD application
+2025-11-29 18:34:42,443 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 18:34:42,443 - __main__ - INFO - SPARD application created successfully
+2025-11-29 18:34:42,443 - __main__ - INFO - Starting SPARD development server
+2025-11-29 18:34:42,443 - __main__ - INFO - Environment: development
+2025-11-29 18:34:42,443 - __main__ - INFO - Debug mode: True
+2025-11-29 18:34:42,443 - werkzeug - WARNING -  * Debugger is active!
+2025-11-29 18:34:42,455 - werkzeug - INFO -  * Debugger PIN: 129-933-499
+2025-11-29 18:35:27,327 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\routes\\auth_routes.py', reloading
+2025-11-29 18:35:27,327 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\routes\\auth_routes.py', reloading
+2025-11-29 18:35:28,298 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-29 18:35:29,595 - __main__ - INFO - Starting SPARD application
+2025-11-29 18:35:29,595 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 18:35:29,596 - __main__ - INFO - SPARD application created successfully
+2025-11-29 18:35:29,596 - __main__ - INFO - Starting SPARD development server
+2025-11-29 18:35:29,596 - __main__ - INFO - Environment: development
+2025-11-29 18:35:29,596 - __main__ - INFO - Debug mode: True
+2025-11-29 18:35:29,596 - werkzeug - WARNING -  * Debugger is active!
+2025-11-29 18:35:29,604 - werkzeug - INFO -  * Debugger PIN: 129-933-499
+2025-11-29 18:37:00,755 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\routes\\auth_routes.py', reloading
+2025-11-29 18:37:00,755 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\routes\\auth_routes.py', reloading
+2025-11-29 18:37:00,755 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\routes\\auth_routes.py', reloading
+2025-11-29 18:37:01,038 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-29 18:37:02,238 - __main__ - INFO - Starting SPARD application
+2025-11-29 18:37:02,238 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 18:37:02,252 - __main__ - INFO - SPARD application created successfully
+2025-11-29 18:37:02,252 - __main__ - INFO - Starting SPARD development server
+2025-11-29 18:37:02,252 - __main__ - INFO - Environment: development
+2025-11-29 18:37:02,252 - __main__ - INFO - Debug mode: True
+2025-11-29 18:37:02,262 - werkzeug - WARNING -  * Debugger is active!
+2025-11-29 18:37:02,264 - werkzeug - INFO -  * Debugger PIN: 129-933-499
+2025-11-29 18:37:09,943 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:37:09] "GET / HTTP/1.1" 200 -
+2025-11-29 18:37:47,825 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:37:47] "OPTIONS /auth/login HTTP/1.1" 200 -
+2025-11-29 18:37:48,142 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:37:48] "[31m[1mPOST /auth/login HTTP/1.1[0m" 401 -
+2025-11-29 18:37:51,342 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:37:51] "OPTIONS /auth/signup HTTP/1.1" 200 -
+2025-11-29 18:37:51,859 - models.database - INFO - User created successfully: ID 3
+2025-11-29 18:37:51,860 - services.auth_service - INFO - User registered successfully: test@example.com
+2025-11-29 18:37:51,860 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:37:51] "[35m[1mPOST /auth/signup HTTP/1.1[0m" 201 -
+2025-11-29 18:37:57,226 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:37:57] "OPTIONS /auth/login HTTP/1.1" 200 -
+2025-11-29 18:37:57,536 - services.auth_service - ERROR - Authentication error: 'password'
+2025-11-29 18:37:57,537 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:37:57] "[31m[1mPOST /auth/login HTTP/1.1[0m" 401 -
+2025-11-29 18:40:19,662 - __main__ - INFO - Starting SPARD application
+2025-11-29 18:40:19,662 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 18:40:19,662 - __main__ - INFO - SPARD application created successfully
+2025-11-29 18:40:19,662 - __main__ - INFO - Starting SPARD development server
+2025-11-29 18:40:19,662 - __main__ - INFO - Environment: development
+2025-11-29 18:40:19,662 - __main__ - INFO - Debug mode: True
+2025-11-29 18:40:19,683 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-11-29 18:40:19,684 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-29 18:40:19,687 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-29 18:40:20,894 - __main__ - INFO - Starting SPARD application
+2025-11-29 18:40:20,894 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 18:40:20,903 - __main__ - INFO - SPARD application created successfully
+2025-11-29 18:40:20,903 - __main__ - INFO - Starting SPARD development server
+2025-11-29 18:40:20,903 - __main__ - INFO - Environment: development
+2025-11-29 18:40:20,903 - __main__ - INFO - Debug mode: True
+2025-11-29 18:40:20,903 - werkzeug - WARNING -  * Debugger is active!
+2025-11-29 18:40:20,909 - werkzeug - INFO -  * Debugger PIN: 129-933-499
+2025-11-29 18:46:08,744 - __main__ - INFO - Starting SPARD application
+2025-11-29 18:46:08,744 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 18:46:08,744 - __main__ - INFO - SPARD application created successfully
+2025-11-29 18:46:08,744 - __main__ - INFO - Starting SPARD development server
+2025-11-29 18:46:08,744 - __main__ - INFO - Environment: development
+2025-11-29 18:46:08,744 - __main__ - INFO - Debug mode: True
+2025-11-29 18:46:08,770 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-11-29 18:46:08,770 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-29 18:46:08,778 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-29 18:46:10,033 - __main__ - INFO - Starting SPARD application
+2025-11-29 18:46:10,033 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 18:46:10,034 - __main__ - INFO - SPARD application created successfully
+2025-11-29 18:46:10,034 - __main__ - INFO - Starting SPARD development server
+2025-11-29 18:46:10,034 - __main__ - INFO - Environment: development
+2025-11-29 18:46:10,034 - __main__ - INFO - Debug mode: True
+2025-11-29 18:46:10,034 - werkzeug - WARNING -  * Debugger is active!
+2025-11-29 18:46:10,042 - werkzeug - INFO -  * Debugger PIN: 129-933-499
+2025-11-29 18:46:38,263 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:46:38] "GET / HTTP/1.1" 200 -
+2025-11-29 18:47:12,362 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:47:12] "GET / HTTP/1.1" 200 -
+2025-11-29 18:47:13,021 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:47:13] "GET / HTTP/1.1" 200 -
+2025-11-29 18:47:18,591 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:47:18] "OPTIONS /auth/login HTTP/1.1" 200 -
+2025-11-29 18:47:18,845 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:47:18] "[31m[1mPOST /auth/login HTTP/1.1[0m" 401 -
+2025-11-29 18:47:20,212 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:47:20] "[31m[1mPOST /auth/login HTTP/1.1[0m" 401 -
+2025-11-29 18:47:32,640 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:47:32] "GET / HTTP/1.1" 200 -
+2025-11-29 18:49:02,789 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\test_logout.py', reloading
+2025-11-29 18:49:03,284 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-29 18:49:04,736 - __main__ - INFO - Starting SPARD application
+2025-11-29 18:49:04,739 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 18:49:04,741 - __main__ - INFO - SPARD application created successfully
+2025-11-29 18:49:04,741 - __main__ - INFO - Starting SPARD development server
+2025-11-29 18:49:04,741 - __main__ - INFO - Environment: development
+2025-11-29 18:49:04,741 - __main__ - INFO - Debug mode: True
+2025-11-29 18:49:04,741 - werkzeug - WARNING -  * Debugger is active!
+2025-11-29 18:49:04,750 - werkzeug - INFO -  * Debugger PIN: 129-933-499
+2025-11-29 18:49:15,636 - werkzeug - INFO -  * Detected change in 'C:\\Users\\raj28\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\encodings\\cp1252.py', reloading
+2025-11-29 18:49:16,053 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-29 18:49:17,268 - __main__ - INFO - Starting SPARD application
+2025-11-29 18:49:17,268 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 18:49:17,268 - __main__ - INFO - SPARD application created successfully
+2025-11-29 18:49:17,268 - __main__ - INFO - Starting SPARD development server
+2025-11-29 18:49:17,268 - __main__ - INFO - Environment: development
+2025-11-29 18:49:17,268 - __main__ - INFO - Debug mode: True
+2025-11-29 18:49:17,268 - werkzeug - WARNING -  * Debugger is active!
+2025-11-29 18:49:17,286 - werkzeug - INFO -  * Debugger PIN: 129-933-499
+2025-11-29 18:49:37,428 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\test_logout.py', reloading
+2025-11-29 18:49:37,428 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\test_logout.py', reloading
+2025-11-29 18:49:37,428 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\test_logout.py', reloading
+2025-11-29 18:49:37,714 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-29 18:49:39,132 - __main__ - INFO - Starting SPARD application
+2025-11-29 18:49:39,133 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 18:49:39,134 - __main__ - INFO - SPARD application created successfully
+2025-11-29 18:49:39,134 - __main__ - INFO - Starting SPARD development server
+2025-11-29 18:49:39,134 - __main__ - INFO - Environment: development
+2025-11-29 18:49:39,134 - __main__ - INFO - Debug mode: True
+2025-11-29 18:49:39,134 - werkzeug - WARNING -  * Debugger is active!
+2025-11-29 18:49:39,143 - werkzeug - INFO -  * Debugger PIN: 129-933-499
+2025-11-29 18:49:47,090 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:49:47] "GET / HTTP/1.1" 200 -
+2025-11-29 18:50:40,556 - __main__ - INFO - Starting SPARD application
+2025-11-29 18:50:40,557 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 18:50:40,559 - __main__ - INFO - SPARD application created successfully
+2025-11-29 18:50:40,559 - __main__ - INFO - Starting SPARD development server
+2025-11-29 18:50:40,559 - __main__ - INFO - Environment: development
+2025-11-29 18:50:40,559 - __main__ - INFO - Debug mode: True
+2025-11-29 18:50:40,569 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-11-29 18:50:40,569 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-29 18:50:40,586 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-29 18:50:41,719 - __main__ - INFO - Starting SPARD application
+2025-11-29 18:50:41,719 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 18:50:41,721 - __main__ - INFO - SPARD application created successfully
+2025-11-29 18:50:41,721 - __main__ - INFO - Starting SPARD development server
+2025-11-29 18:50:41,722 - __main__ - INFO - Environment: development
+2025-11-29 18:50:41,722 - __main__ - INFO - Debug mode: True
+2025-11-29 18:50:41,726 - werkzeug - WARNING -  * Debugger is active!
+2025-11-29 18:50:41,728 - werkzeug - INFO -  * Debugger PIN: 129-933-499
+2025-11-29 18:51:18,264 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:51:18] "GET / HTTP/1.1" 200 -
+2025-11-29 18:53:55,339 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:53:55] "GET / HTTP/1.1" 200 -
+2025-11-29 18:55:44,282 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:55:44] "GET / HTTP/1.1" 200 -
+2025-11-29 18:55:49,897 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:55:49] "OPTIONS /auth/login HTTP/1.1" 200 -
+2025-11-29 18:55:50,153 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:55:50] "[31m[1mPOST /auth/login HTTP/1.1[0m" 401 -
+2025-11-29 18:56:22,764 - __main__ - INFO - Starting SPARD application
+2025-11-29 18:56:22,764 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 18:56:22,764 - __main__ - INFO - SPARD application created successfully
+2025-11-29 18:56:22,764 - __main__ - INFO - Starting SPARD development server
+2025-11-29 18:56:22,764 - __main__ - INFO - Environment: development
+2025-11-29 18:56:22,764 - __main__ - INFO - Debug mode: True
+2025-11-29 18:56:22,785 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-11-29 18:56:22,785 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-29 18:56:22,785 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-29 18:56:24,018 - __main__ - INFO - Starting SPARD application
+2025-11-29 18:56:24,019 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 18:56:24,020 - __main__ - INFO - SPARD application created successfully
+2025-11-29 18:56:24,020 - __main__ - INFO - Starting SPARD development server
+2025-11-29 18:56:24,020 - __main__ - INFO - Environment: development
+2025-11-29 18:56:24,020 - __main__ - INFO - Debug mode: True
+2025-11-29 18:56:24,020 - werkzeug - WARNING -  * Debugger is active!
+2025-11-29 18:56:24,027 - werkzeug - INFO -  * Debugger PIN: 129-933-499
+2025-11-29 18:56:49,431 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:56:49] "GET / HTTP/1.1" 200 -
+2025-11-29 18:56:50,461 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:56:50] "GET / HTTP/1.1" 200 -
+2025-11-29 18:56:55,736 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:56:55] "OPTIONS /auth/login HTTP/1.1" 200 -
+2025-11-29 18:56:55,991 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:56:55] "[31m[1mPOST /auth/login HTTP/1.1[0m" 401 -
+2025-11-29 18:56:56,963 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:56:56] "[31m[1mPOST /auth/login HTTP/1.1[0m" 401 -
+2025-11-29 18:56:58,065 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:56:58] "[31m[1mPOST /auth/login HTTP/1.1[0m" 401 -
+2025-11-29 18:56:58,321 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:56:58] "[31m[1mPOST /auth/login HTTP/1.1[0m" 401 -
+2025-11-29 18:56:58,516 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:56:58] "[31m[1mPOST /auth/login HTTP/1.1[0m" 401 -
+2025-11-29 18:57:30,496 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:57:30] "OPTIONS /auth/login HTTP/1.1" 200 -
+2025-11-29 18:57:30,820 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:57:30] "[31m[1mPOST /auth/login HTTP/1.1[0m" 401 -
+2025-11-29 18:58:41,542 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:58:41] "GET / HTTP/1.1" 200 -
+2025-11-29 18:58:49,072 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:58:49] "OPTIONS /auth/login HTTP/1.1" 200 -
+2025-11-29 18:58:50,043 - services.auth_service - INFO - User authenticated successfully: 1ms23is005@msrit.edu
+2025-11-29 18:58:50,045 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:58:50] "POST /auth/login HTTP/1.1" 200 -
+2025-11-29 18:58:51,199 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:58:51] "GET / HTTP/1.1" 200 -
+2025-11-29 18:58:51,524 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:58:51] "OPTIONS /auth/verify HTTP/1.1" 200 -
+2025-11-29 18:58:51,782 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:58:51] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-29 18:58:53,373 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:58:53] "OPTIONS /auth/logout HTTP/1.1" 200 -
+2025-11-29 18:58:53,708 - services.auth_service - INFO - User logged out successfully
+2025-11-29 18:58:53,708 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:58:53] "POST /auth/logout HTTP/1.1" 200 -
+2025-11-29 18:58:53,941 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:58:53] "GET / HTTP/1.1" 200 -
+2025-11-29 18:59:23,125 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:59:23] "OPTIONS /auth/signup HTTP/1.1" 200 -
+2025-11-29 18:59:24,106 - models.database - INFO - User created successfully: ID 6
+2025-11-29 18:59:24,106 - services.auth_service - INFO - User registered successfully: admin@email.com
+2025-11-29 18:59:24,106 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:59:24] "[35m[1mPOST /auth/signup HTTP/1.1[0m" 201 -
+2025-11-29 18:59:33,531 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:59:33] "OPTIONS /auth/login HTTP/1.1" 200 -
+2025-11-29 18:59:34,555 - services.auth_service - INFO - User authenticated successfully: admin@email.com
+2025-11-29 18:59:34,555 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:59:34] "POST /auth/login HTTP/1.1" 200 -
+2025-11-29 18:59:35,641 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:59:35] "GET / HTTP/1.1" 200 -
+2025-11-29 18:59:35,955 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:59:35] "OPTIONS /auth/verify HTTP/1.1" 200 -
+2025-11-29 18:59:36,276 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 18:59:36] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-29 19:00:34,359 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:00:34] "OPTIONS /api/check-conflicts HTTP/1.1" 200 -
+2025-11-29 19:00:34,672 - services.conflict_service - INFO - Analyzing prescription text conflicts with 0 current medications
+2025-11-29 19:00:34,688 - services.conflict_service - INFO - Extracted 2 medicines from prescription text: ['Lisinopril', 'Ibuprofen']
+2025-11-29 19:00:34,688 - services.conflict_service - INFO - Analysis complete: 0 conflicts found, risk level: LOW
+2025-11-29 19:00:34,688 - routes.conflict_routes - INFO - Conflict analysis completed for user 6
+2025-11-29 19:00:34,705 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:00:34] "POST /api/check-conflicts HTTP/1.1" 200 -
+2025-11-29 19:00:38,972 - services.conflict_service - INFO - Analyzing prescription text conflicts with 0 current medications
+2025-11-29 19:00:38,973 - services.conflict_service - INFO - Extracted 2 medicines from prescription text: ['Lisinopril', 'Ibuprofen']
+2025-11-29 19:00:38,974 - services.conflict_service - INFO - Analysis complete: 0 conflicts found, risk level: LOW
+2025-11-29 19:00:38,974 - routes.conflict_routes - INFO - Conflict analysis completed for user 6
+2025-11-29 19:00:38,976 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:00:38] "POST /api/check-conflicts HTTP/1.1" 200 -
+2025-11-29 19:03:35,678 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\services\\gemini_service.py', reloading
+2025-11-29 19:03:35,681 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\services\\gemini_service.py', reloading
+2025-11-29 19:03:35,681 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\services\\gemini_service.py', reloading
+2025-11-29 19:03:36,258 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-29 19:03:37,562 - __main__ - INFO - Starting SPARD application
+2025-11-29 19:03:37,562 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 19:03:37,564 - __main__ - INFO - SPARD application created successfully
+2025-11-29 19:03:37,564 - __main__ - INFO - Starting SPARD development server
+2025-11-29 19:03:37,564 - __main__ - INFO - Environment: development
+2025-11-29 19:03:37,564 - __main__ - INFO - Debug mode: True
+2025-11-29 19:03:37,570 - werkzeug - WARNING -  * Debugger is active!
+2025-11-29 19:03:37,574 - werkzeug - INFO -  * Debugger PIN: 129-933-499
+2025-11-29 19:04:46,484 - __main__ - INFO - Starting SPARD application
+2025-11-29 19:04:46,484 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 19:04:46,484 - __main__ - INFO - SPARD application created successfully
+2025-11-29 19:04:46,484 - __main__ - INFO - Starting SPARD development server
+2025-11-29 19:04:46,484 - __main__ - INFO - Environment: development
+2025-11-29 19:04:46,484 - __main__ - INFO - Debug mode: True
+2025-11-29 19:04:46,498 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-11-29 19:04:46,498 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-29 19:04:46,508 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-29 19:04:47,773 - __main__ - INFO - Starting SPARD application
+2025-11-29 19:04:47,773 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 19:04:47,773 - __main__ - INFO - SPARD application created successfully
+2025-11-29 19:04:47,773 - __main__ - INFO - Starting SPARD development server
+2025-11-29 19:04:47,773 - __main__ - INFO - Environment: development
+2025-11-29 19:04:47,773 - __main__ - INFO - Debug mode: True
+2025-11-29 19:04:47,790 - werkzeug - WARNING -  * Debugger is active!
+2025-11-29 19:04:47,792 - werkzeug - INFO -  * Debugger PIN: 129-933-499
+2025-11-29 19:05:11,955 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:05:11] "GET / HTTP/1.1" 200 -
+2025-11-29 19:05:56,568 - __main__ - INFO - Starting SPARD application
+2025-11-29 19:05:56,568 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 19:05:56,568 - __main__ - INFO - SPARD application created successfully
+2025-11-29 19:05:56,568 - __main__ - INFO - Starting SPARD development server
+2025-11-29 19:05:56,568 - __main__ - INFO - Environment: development
+2025-11-29 19:05:56,568 - __main__ - INFO - Debug mode: True
+2025-11-29 19:05:56,568 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-11-29 19:05:56,568 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-29 19:05:56,594 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-29 19:05:57,911 - __main__ - INFO - Starting SPARD application
+2025-11-29 19:05:57,912 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 19:05:57,914 - __main__ - INFO - SPARD application created successfully
+2025-11-29 19:05:57,914 - __main__ - INFO - Starting SPARD development server
+2025-11-29 19:05:57,914 - __main__ - INFO - Environment: development
+2025-11-29 19:05:57,914 - __main__ - INFO - Debug mode: True
+2025-11-29 19:05:57,919 - werkzeug - WARNING -  * Debugger is active!
+2025-11-29 19:05:57,921 - werkzeug - INFO -  * Debugger PIN: 129-933-499
+2025-11-29 19:06:13,986 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:06:13] "GET / HTTP/1.1" 200 -
+2025-11-29 19:06:13,986 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:06:13] "OPTIONS /auth/verify HTTP/1.1" 200 -
+2025-11-29 19:06:14,237 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:06:14] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-29 19:06:15,160 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:06:15] "OPTIONS /auth/logout HTTP/1.1" 200 -
+2025-11-29 19:06:15,486 - services.auth_service - INFO - User logged out successfully
+2025-11-29 19:06:15,501 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:06:15] "POST /auth/logout HTTP/1.1" 200 -
+2025-11-29 19:06:15,758 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:06:15] "GET / HTTP/1.1" 200 -
+2025-11-29 19:06:22,805 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:06:22] "OPTIONS /auth/login HTTP/1.1" 200 -
+2025-11-29 19:06:23,769 - services.auth_service - INFO - User authenticated successfully: admin@email.com
+2025-11-29 19:06:23,769 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:06:23] "POST /auth/login HTTP/1.1" 200 -
+2025-11-29 19:06:24,831 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:06:24] "OPTIONS /auth/verify HTTP/1.1" 200 -
+2025-11-29 19:06:25,137 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:06:25] "GET / HTTP/1.1" 200 -
+2025-11-29 19:06:25,137 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:06:25] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-29 19:07:06,270 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\services\\gemini_service.py', reloading
+2025-11-29 19:07:06,270 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\services\\gemini_service.py', reloading
+2025-11-29 19:07:06,472 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-29 19:07:07,771 - __main__ - INFO - Starting SPARD application
+2025-11-29 19:07:07,771 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 19:07:07,771 - __main__ - INFO - SPARD application created successfully
+2025-11-29 19:07:07,771 - __main__ - INFO - Starting SPARD development server
+2025-11-29 19:07:07,771 - __main__ - INFO - Environment: development
+2025-11-29 19:07:07,771 - __main__ - INFO - Debug mode: True
+2025-11-29 19:07:07,771 - werkzeug - WARNING -  * Debugger is active!
+2025-11-29 19:07:07,782 - werkzeug - INFO -  * Debugger PIN: 129-933-499
+2025-11-29 19:07:14,099 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\services\\gemini_service.py', reloading
+2025-11-29 19:07:14,099 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\services\\gemini_service.py', reloading
+2025-11-29 19:07:14,099 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\services\\gemini_service.py', reloading
+2025-11-29 19:07:15,049 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-29 19:07:17,658 - __main__ - INFO - Starting SPARD application
+2025-11-29 19:07:17,659 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 19:07:17,667 - __main__ - INFO - SPARD application created successfully
+2025-11-29 19:07:17,668 - __main__ - INFO - Starting SPARD development server
+2025-11-29 19:07:17,668 - __main__ - INFO - Environment: development
+2025-11-29 19:07:17,671 - __main__ - INFO - Debug mode: True
+2025-11-29 19:07:17,691 - werkzeug - WARNING -  * Debugger is active!
+2025-11-29 19:07:17,696 - werkzeug - INFO -  * Debugger PIN: 129-933-499
+2025-11-29 19:08:37,764 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\services\\gemini_service.py', reloading
+2025-11-29 19:08:37,764 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\services\\gemini_service.py', reloading
+2025-11-29 19:08:38,610 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-29 19:08:39,841 - __main__ - INFO - Starting SPARD application
+2025-11-29 19:08:39,841 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 19:08:39,853 - __main__ - INFO - SPARD application created successfully
+2025-11-29 19:08:39,853 - __main__ - INFO - Starting SPARD development server
+2025-11-29 19:08:39,853 - __main__ - INFO - Environment: development
+2025-11-29 19:08:39,854 - __main__ - INFO - Debug mode: True
+2025-11-29 19:08:39,860 - werkzeug - WARNING -  * Debugger is active!
+2025-11-29 19:08:39,865 - werkzeug - INFO -  * Debugger PIN: 129-933-499
+2025-11-29 19:09:56,074 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\services\\gemini_service.py', reloading
+2025-11-29 19:09:56,074 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\services\\gemini_service.py', reloading
+2025-11-29 19:09:56,074 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\services\\gemini_service.py', reloading
+2025-11-29 19:09:57,073 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-29 19:09:58,373 - __main__ - INFO - Starting SPARD application
+2025-11-29 19:09:58,373 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 19:09:58,373 - __main__ - INFO - SPARD application created successfully
+2025-11-29 19:09:58,373 - __main__ - INFO - Starting SPARD development server
+2025-11-29 19:09:58,373 - __main__ - INFO - Environment: development
+2025-11-29 19:09:58,373 - __main__ - INFO - Debug mode: True
+2025-11-29 19:09:58,373 - werkzeug - WARNING -  * Debugger is active!
+2025-11-29 19:09:58,383 - werkzeug - INFO -  * Debugger PIN: 129-933-499
+2025-11-29 19:10:13,432 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:10:13] "GET / HTTP/1.1" 200 -
+2025-11-29 19:10:13,441 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:10:13] "OPTIONS /auth/verify HTTP/1.1" 200 -
+2025-11-29 19:10:13,690 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:10:13] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-29 19:10:51,678 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:10:51] "GET / HTTP/1.1" 200 -
+2025-11-29 19:10:51,994 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:10:51] "OPTIONS /auth/verify HTTP/1.1" 200 -
+2025-11-29 19:10:52,261 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:10:52] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-29 19:10:57,797 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:10:57] "OPTIONS /auth/logout HTTP/1.1" 200 -
+2025-11-29 19:10:58,123 - services.auth_service - INFO - User logged out successfully
+2025-11-29 19:10:58,125 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:10:58] "POST /auth/logout HTTP/1.1" 200 -
+2025-11-29 19:10:58,376 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:10:58] "GET / HTTP/1.1" 200 -
+2025-11-29 19:11:19,429 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:11:19] "OPTIONS /auth/login HTTP/1.1" 200 -
+2025-11-29 19:11:20,441 - services.auth_service - INFO - User authenticated successfully: admin@email.com
+2025-11-29 19:11:20,444 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:11:20] "POST /auth/login HTTP/1.1" 200 -
+2025-11-29 19:11:21,593 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:11:21] "GET / HTTP/1.1" 200 -
+2025-11-29 19:11:21,925 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:11:21] "OPTIONS /auth/verify HTTP/1.1" 200 -
+2025-11-29 19:11:22,195 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:11:22] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-29 19:12:47,922 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:12:47] "GET / HTTP/1.1" 200 -
+2025-11-29 19:12:47,922 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:12:47] "OPTIONS /auth/verify HTTP/1.1" 200 -
+2025-11-29 19:12:48,190 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:12:48] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-29 19:13:53,085 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:13:53] "OPTIONS /auth/verify HTTP/1.1" 200 -
+2025-11-29 19:13:53,087 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:13:53] "GET / HTTP/1.1" 200 -
+2025-11-29 19:13:53,367 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:13:53] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-29 19:14:02,525 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:14:02] "GET /api/health HTTP/1.1" 200 -
+2025-11-29 19:14:49,827 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:14:49] "GET / HTTP/1.1" 200 -
+2025-11-29 19:14:49,843 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:14:49] "OPTIONS /auth/verify HTTP/1.1" 200 -
+2025-11-29 19:14:50,082 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:14:50] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-29 19:14:50,309 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:14:50] "GET / HTTP/1.1" 200 -
+2025-11-29 19:14:50,631 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:14:50] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-29 19:14:57,510 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:14:57] "GET /api/health HTTP/1.1" 200 -
+2025-11-29 19:16:14,039 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:16:14] "OPTIONS /auth/verify HTTP/1.1" 200 -
+2025-11-29 19:16:14,041 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:16:14] "GET / HTTP/1.1" 200 -
+2025-11-29 19:16:14,289 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:16:14] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-29 19:16:21,527 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:16:21] "GET /api/health HTTP/1.1" 200 -
+2025-11-29 19:20:44,093 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:20:44] "GET / HTTP/1.1" 200 -
+2025-11-29 19:20:44,093 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:20:44] "OPTIONS /auth/verify HTTP/1.1" 200 -
+2025-11-29 19:20:44,364 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:20:44] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-29 19:20:50,960 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:20:50] "GET /api/health HTTP/1.1" 200 -
+2025-11-29 19:20:51,279 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:20:51] "OPTIONS /api/ocr HTTP/1.1" 200 -
+2025-11-29 19:20:51,552 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:20:51] "[31m[1mPOST /api/ocr HTTP/1.1[0m" 400 -
+2025-11-29 19:22:38,591 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:22:38] "GET / HTTP/1.1" 200 -
+2025-11-29 19:22:38,591 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:22:38] "OPTIONS /auth/verify HTTP/1.1" 200 -
+2025-11-29 19:22:38,846 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:22:38] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-29 19:22:42,469 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:22:42] "GET /api/health HTTP/1.1" 200 -
+2025-11-29 19:22:42,793 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:22:42] "OPTIONS /api/ocr HTTP/1.1" 200 -
+2025-11-29 19:22:43,058 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:22:43] "[31m[1mPOST /api/ocr HTTP/1.1[0m" 400 -
+2025-11-29 19:24:21,753 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:24:21] "GET / HTTP/1.1" 200 -
+2025-11-29 19:24:21,755 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:24:21] "OPTIONS /auth/verify HTTP/1.1" 200 -
+2025-11-29 19:24:21,998 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:24:21] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-29 19:24:27,739 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:24:27] "GET /api/health HTTP/1.1" 200 -
+2025-11-29 19:24:28,069 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:24:28] "OPTIONS /api/ocr HTTP/1.1" 200 -
+2025-11-29 19:24:28,335 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:24:28] "[31m[1mPOST /api/ocr HTTP/1.1[0m" 400 -
+2025-11-29 19:28:43,569 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:28:43] "GET / HTTP/1.1" 200 -
+2025-11-29 19:28:43,587 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:28:43] "OPTIONS /auth/verify HTTP/1.1" 200 -
+2025-11-29 19:28:43,835 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:28:43] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-29 19:28:55,250 - __main__ - INFO - Starting SPARD application
+2025-11-29 19:28:55,250 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 19:28:55,250 - __main__ - INFO - SPARD application created successfully
+2025-11-29 19:28:55,250 - __main__ - INFO - Starting SPARD development server
+2025-11-29 19:28:55,250 - __main__ - INFO - Environment: development
+2025-11-29 19:28:55,250 - __main__ - INFO - Debug mode: True
+2025-11-29 19:28:55,273 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-11-29 19:28:55,273 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-29 19:28:55,273 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-29 19:28:56,534 - __main__ - INFO - Starting SPARD application
+2025-11-29 19:28:56,541 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 19:28:56,542 - __main__ - INFO - SPARD application created successfully
+2025-11-29 19:28:56,542 - __main__ - INFO - Starting SPARD development server
+2025-11-29 19:28:56,542 - __main__ - INFO - Environment: development
+2025-11-29 19:28:56,542 - __main__ - INFO - Debug mode: True
+2025-11-29 19:28:56,542 - werkzeug - WARNING -  * Debugger is active!
+2025-11-29 19:28:56,550 - werkzeug - INFO -  * Debugger PIN: 129-933-499
+2025-11-29 19:29:14,239 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:29:14] "GET / HTTP/1.1" 200 -
+2025-11-29 19:29:14,243 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:29:14] "OPTIONS /auth/verify HTTP/1.1" 200 -
+2025-11-29 19:29:14,505 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:29:14] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-29 19:29:22,549 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:29:22] "GET /api/health HTTP/1.1" 200 -
+2025-11-29 19:29:22,866 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:29:22] "OPTIONS /api/ocr HTTP/1.1" 200 -
+2025-11-29 19:29:23,141 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:29:23] "[31m[1mPOST /api/ocr HTTP/1.1[0m" 400 -
+2025-11-29 19:31:54,379 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:31:54] "GET / HTTP/1.1" 200 -
+2025-11-29 19:31:54,382 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:31:54] "OPTIONS /auth/verify HTTP/1.1" 200 -
+2025-11-29 19:31:54,626 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:31:54] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-29 19:31:58,653 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:31:58] "GET /api/health HTTP/1.1" 200 -
+2025-11-29 19:31:58,978 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:31:58] "OPTIONS /api/ocr HTTP/1.1" 200 -
+2025-11-29 19:32:04,658 - services.gemini_service - INFO - Gemini OCR successful: extracted 11 characters
+2025-11-29 19:32:04,658 - routes.ocr_routes - INFO - OCR successful for user 6
+2025-11-29 19:32:04,675 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:32:04] "POST /api/ocr HTTP/1.1" 200 -
+2025-11-29 19:32:14,460 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:32:14] "GET /api/health HTTP/1.1" 200 -
+2025-11-29 19:32:14,792 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:32:14] "OPTIONS /api/ocr HTTP/1.1" 200 -
+2025-11-29 19:32:18,424 - services.gemini_service - INFO - Gemini OCR successful: extracted 10 characters
+2025-11-29 19:32:18,424 - routes.ocr_routes - INFO - OCR successful for user 6
+2025-11-29 19:32:18,424 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:32:18] "POST /api/ocr HTTP/1.1" 200 -
+2025-11-29 19:32:21,064 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:32:21] "OPTIONS /api/check-conflicts HTTP/1.1" 200 -
+2025-11-29 19:32:21,389 - services.conflict_service - INFO - Analyzing prescription text conflicts with 0 current medications
+2025-11-29 19:32:21,389 - services.conflict_service - INFO - Extracted 1 medicines from prescription text: ['Lisinopril']
+2025-11-29 19:32:21,389 - services.conflict_service - INFO - Analysis complete: 0 conflicts found, risk level: LOW
+2025-11-29 19:32:21,389 - routes.conflict_routes - INFO - Conflict analysis completed for user 6
+2025-11-29 19:32:21,406 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:32:21] "POST /api/check-conflicts HTTP/1.1" 200 -
+2025-11-29 19:32:31,256 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:32:31] "OPTIONS /auth/logout HTTP/1.1" 200 -
+2025-11-29 19:32:31,592 - services.auth_service - INFO - User logged out successfully
+2025-11-29 19:32:31,592 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:32:31] "POST /auth/logout HTTP/1.1" 200 -
+2025-11-29 19:32:31,829 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:32:31] "GET / HTTP/1.1" 200 -
+2025-11-29 19:32:43,817 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:32:43] "OPTIONS /auth/login HTTP/1.1" 200 -
+2025-11-29 19:32:44,841 - services.auth_service - INFO - User authenticated successfully: admin@email.com
+2025-11-29 19:32:44,841 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:32:44] "POST /auth/login HTTP/1.1" 200 -
+2025-11-29 19:32:45,909 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:32:45] "GET / HTTP/1.1" 200 -
+2025-11-29 19:32:46,228 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:32:46] "OPTIONS /auth/verify HTTP/1.1" 200 -
+2025-11-29 19:32:46,541 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:32:46] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-29 19:32:52,029 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:32:52] "GET /api/health HTTP/1.1" 200 -
+2025-11-29 19:32:52,354 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:32:52] "OPTIONS /api/ocr HTTP/1.1" 200 -
+2025-11-29 19:32:55,647 - services.gemini_service - INFO - Gemini OCR successful: extracted 10 characters
+2025-11-29 19:32:55,649 - routes.ocr_routes - INFO - OCR successful for user 6
+2025-11-29 19:32:55,649 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:32:55] "POST /api/ocr HTTP/1.1" 200 -
+2025-11-29 19:32:57,199 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:32:57] "GET /api/health HTTP/1.1" 200 -
+2025-11-29 19:32:59,621 - services.gemini_service - INFO - Gemini OCR successful: extracted 11 characters
+2025-11-29 19:32:59,621 - routes.ocr_routes - INFO - OCR successful for user 6
+2025-11-29 19:32:59,621 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:32:59] "POST /api/ocr HTTP/1.1" 200 -
+2025-11-29 19:33:01,683 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:33:01] "OPTIONS /api/check-conflicts HTTP/1.1" 200 -
+2025-11-29 19:33:02,007 - services.conflict_service - INFO - Analyzing prescription text conflicts with 0 current medications
+2025-11-29 19:33:02,007 - services.conflict_service - INFO - Extracted 0 medicines from prescription text: []
+2025-11-29 19:33:02,026 - services.conflict_service - INFO - Analysis complete: 0 conflicts found, risk level: LOW
+2025-11-29 19:33:02,026 - routes.conflict_routes - INFO - Conflict analysis completed for user 6
+2025-11-29 19:33:02,026 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:33:02] "POST /api/check-conflicts HTTP/1.1" 200 -
+2025-11-29 19:33:38,046 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\routes\\conflict_routes.py', reloading
+2025-11-29 19:33:40,873 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-29 19:33:42,817 - __main__ - INFO - Starting SPARD application
+2025-11-29 19:33:42,818 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 19:33:42,821 - __main__ - INFO - SPARD application created successfully
+2025-11-29 19:33:42,821 - __main__ - INFO - Starting SPARD development server
+2025-11-29 19:33:42,821 - __main__ - INFO - Environment: development
+2025-11-29 19:33:42,821 - __main__ - INFO - Debug mode: True
+2025-11-29 19:33:42,821 - werkzeug - WARNING -  * Debugger is active!
+2025-11-29 19:33:42,831 - werkzeug - INFO -  * Debugger PIN: 129-933-499
+2025-11-29 19:35:14,912 - __main__ - INFO - Starting SPARD application
+2025-11-29 19:35:14,912 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 19:35:14,912 - __main__ - INFO - SPARD application created successfully
+2025-11-29 19:35:14,912 - __main__ - INFO - Starting SPARD development server
+2025-11-29 19:35:14,912 - __main__ - INFO - Environment: development
+2025-11-29 19:35:14,912 - __main__ - INFO - Debug mode: True
+2025-11-29 19:35:14,940 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-11-29 19:35:14,940 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-29 19:35:14,955 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-29 19:35:16,730 - __main__ - INFO - Starting SPARD application
+2025-11-29 19:35:16,730 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 19:35:16,730 - __main__ - INFO - SPARD application created successfully
+2025-11-29 19:35:16,730 - __main__ - INFO - Starting SPARD development server
+2025-11-29 19:35:16,730 - __main__ - INFO - Environment: development
+2025-11-29 19:35:16,730 - __main__ - INFO - Debug mode: True
+2025-11-29 19:35:16,746 - werkzeug - WARNING -  * Debugger is active!
+2025-11-29 19:35:16,755 - werkzeug - INFO -  * Debugger PIN: 129-933-499
+2025-11-29 19:36:10,445 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:36:10] "GET / HTTP/1.1" 200 -
+2025-11-29 19:36:10,445 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:36:10] "OPTIONS /auth/verify HTTP/1.1" 200 -
+2025-11-29 19:36:10,699 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:36:10] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-29 19:36:13,328 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:36:13] "GET /api/health HTTP/1.1" 200 -
+2025-11-29 19:36:13,648 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:36:13] "OPTIONS /api/ocr HTTP/1.1" 200 -
+2025-11-29 19:36:16,997 - services.gemini_service - INFO - Gemini OCR successful: extracted 10 characters
+2025-11-29 19:36:16,997 - routes.ocr_routes - INFO - OCR successful for user 6
+2025-11-29 19:36:16,997 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:36:16] "POST /api/ocr HTTP/1.1" 200 -
+2025-11-29 19:36:17,529 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:36:17] "GET /api/health HTTP/1.1" 200 -
+2025-11-29 19:36:20,429 - services.gemini_service - INFO - Gemini OCR successful: extracted 11 characters
+2025-11-29 19:36:20,429 - routes.ocr_routes - INFO - OCR successful for user 6
+2025-11-29 19:36:20,443 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:36:20] "POST /api/ocr HTTP/1.1" 200 -
+2025-11-29 19:36:23,340 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:36:23] "OPTIONS /api/check-conflicts HTTP/1.1" 200 -
+2025-11-29 19:36:23,665 - services.conflict_service - INFO - Analyzing prescription text conflicts with 0 current medications
+2025-11-29 19:36:23,665 - services.conflict_service - INFO - Extracted 0 medicines from prescription text: []
+2025-11-29 19:36:23,681 - services.conflict_service - INFO - Analysis complete: 0 conflicts found, risk level: LOW
+2025-11-29 19:36:23,681 - routes.conflict_routes - INFO - Conflict analysis completed for user 6
+2025-11-29 19:36:23,681 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:36:23] "POST /api/check-conflicts HTTP/1.1" 200 -
+2025-11-29 19:41:22,749 - __main__ - INFO - Starting SPARD application
+2025-11-29 19:41:22,749 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 19:41:22,761 - __main__ - INFO - SPARD application created successfully
+2025-11-29 19:41:22,762 - __main__ - INFO - Starting SPARD development server
+2025-11-29 19:41:22,762 - __main__ - INFO - Environment: development
+2025-11-29 19:41:22,762 - __main__ - INFO - Debug mode: True
+2025-11-29 19:41:22,762 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-11-29 19:41:22,762 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-29 19:41:22,780 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-29 19:41:23,985 - __main__ - INFO - Starting SPARD application
+2025-11-29 19:41:23,985 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 19:41:23,996 - __main__ - INFO - SPARD application created successfully
+2025-11-29 19:41:23,997 - __main__ - INFO - Starting SPARD development server
+2025-11-29 19:41:23,997 - __main__ - INFO - Environment: development
+2025-11-29 19:41:23,997 - __main__ - INFO - Debug mode: True
+2025-11-29 19:41:24,001 - werkzeug - WARNING -  * Debugger is active!
+2025-11-29 19:41:24,004 - werkzeug - INFO -  * Debugger PIN: 129-933-499
+2025-11-29 19:41:47,773 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:41:47] "GET /api/health HTTP/1.1" 200 -
+2025-11-29 19:41:47,847 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:41:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-11-29 19:42:05,720 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:42:05] "GET /api/health HTTP/1.1" 200 -
+2025-11-29 19:42:05,978 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:42:05] "OPTIONS /api/ocr HTTP/1.1" 200 -
+2025-11-29 19:42:08,786 - services.gemini_service - INFO - Gemini OCR successful: extracted 10 characters
+2025-11-29 19:42:08,788 - routes.ocr_routes - INFO - OCR successful for user 6
+2025-11-29 19:42:08,792 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:42:08] "POST /api/ocr HTTP/1.1" 200 -
+2025-11-29 19:42:11,144 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:42:11] "GET /api/health HTTP/1.1" 200 -
+2025-11-29 19:42:11,465 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:42:11] "OPTIONS /api/ocr HTTP/1.1" 200 -
+2025-11-29 19:42:13,761 - services.gemini_service - INFO - Gemini OCR successful: extracted 11 characters
+2025-11-29 19:42:13,761 - routes.ocr_routes - INFO - OCR successful for user 6
+2025-11-29 19:42:13,761 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:42:13] "POST /api/ocr HTTP/1.1" 200 -
+2025-11-29 19:42:14,878 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:42:14] "OPTIONS /api/check-conflicts HTTP/1.1" 200 -
+2025-11-29 19:42:15,228 - services.conflict_service - INFO - Analyzing prescription text conflicts with 0 current medications
+2025-11-29 19:42:15,230 - services.conflict_service - INFO - Extracted 0 medicines from prescription text: []
+2025-11-29 19:42:15,230 - services.conflict_service - INFO - Analysis complete: 0 conflicts found, risk level: LOW
+2025-11-29 19:42:15,245 - routes.conflict_routes - INFO - Conflict analysis completed for user 6
+2025-11-29 19:42:15,247 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:42:15] "POST /api/check-conflicts HTTP/1.1" 200 -
+2025-11-29 19:46:47,534 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:46:47] "OPTIONS /api/check-conflicts HTTP/1.1" 200 -
+2025-11-29 19:46:47,798 - services.conflict_service - INFO - Analyzing prescription text conflicts with 0 current medications
+2025-11-29 19:46:47,798 - services.conflict_service - INFO - Extracted 0 medicines from prescription text: []
+2025-11-29 19:46:47,798 - services.conflict_service - INFO - Analysis complete: 0 conflicts found, risk level: LOW
+2025-11-29 19:46:47,798 - routes.conflict_routes - INFO - Conflict analysis completed for user 6
+2025-11-29 19:46:47,798 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:46:47] "POST /api/check-conflicts HTTP/1.1" 200 -
+2025-11-29 19:46:55,638 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:46:55] "GET /api/health HTTP/1.1" 200 -
+2025-11-29 19:46:55,983 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:46:55] "OPTIONS /api/ocr HTTP/1.1" 200 -
+2025-11-29 19:46:59,330 - services.gemini_service - INFO - Gemini OCR successful: extracted 10 characters
+2025-11-29 19:46:59,330 - routes.ocr_routes - INFO - OCR successful for user 6
+2025-11-29 19:46:59,330 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:46:59] "POST /api/ocr HTTP/1.1" 200 -
+2025-11-29 19:47:03,414 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:47:03] "GET /api/health HTTP/1.1" 200 -
+2025-11-29 19:47:03,736 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:47:03] "OPTIONS /api/ocr HTTP/1.1" 200 -
+2025-11-29 19:47:06,280 - services.gemini_service - INFO - Gemini OCR successful: extracted 11 characters
+2025-11-29 19:47:06,296 - routes.ocr_routes - INFO - OCR successful for user 6
+2025-11-29 19:47:06,296 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:47:06] "POST /api/ocr HTTP/1.1" 200 -
+2025-11-29 19:47:10,025 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:47:10] "OPTIONS /api/check-conflicts HTTP/1.1" 200 -
+2025-11-29 19:47:10,385 - services.conflict_service - INFO - Analyzing prescription text conflicts with 0 current medications
+2025-11-29 19:47:10,401 - services.conflict_service - INFO - Extracted 0 medicines from prescription text: []
+2025-11-29 19:47:10,401 - services.conflict_service - INFO - Analysis complete: 0 conflicts found, risk level: LOW
+2025-11-29 19:47:10,401 - routes.conflict_routes - INFO - Conflict analysis completed for user 6
+2025-11-29 19:47:10,401 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:47:10] "POST /api/check-conflicts HTTP/1.1" 200 -
+2025-11-29 19:47:30,194 - __main__ - INFO - Starting SPARD application
+2025-11-29 19:47:30,194 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 19:47:30,200 - __main__ - INFO - SPARD application created successfully
+2025-11-29 19:47:30,200 - __main__ - INFO - Starting SPARD development server
+2025-11-29 19:47:30,200 - __main__ - INFO - Environment: development
+2025-11-29 19:47:30,200 - __main__ - INFO - Debug mode: True
+2025-11-29 19:47:30,210 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-11-29 19:47:30,211 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-29 19:47:30,217 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-29 19:47:31,527 - __main__ - INFO - Starting SPARD application
+2025-11-29 19:47:31,527 - __main__ - INFO - Configuration loaded successfully
+2025-11-29 19:47:31,527 - __main__ - INFO - SPARD application created successfully
+2025-11-29 19:47:31,527 - __main__ - INFO - Starting SPARD development server
+2025-11-29 19:47:31,527 - __main__ - INFO - Environment: development
+2025-11-29 19:47:31,527 - __main__ - INFO - Debug mode: True
+2025-11-29 19:47:31,527 - werkzeug - WARNING -  * Debugger is active!
+2025-11-29 19:47:31,544 - werkzeug - INFO -  * Debugger PIN: 129-933-499
+2025-11-29 19:47:45,073 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:47:45] "GET / HTTP/1.1" 200 -
+2025-11-29 19:47:45,086 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:47:45] "OPTIONS /auth/verify HTTP/1.1" 200 -
+2025-11-29 19:47:45,325 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:47:45] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-29 19:47:49,712 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:47:49] "GET /api/health HTTP/1.1" 200 -
+2025-11-29 19:47:50,049 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:47:50] "OPTIONS /api/ocr HTTP/1.1" 200 -
+2025-11-29 19:47:53,027 - services.gemini_service - INFO - Gemini OCR successful: extracted 10 characters
+2025-11-29 19:47:53,027 - routes.ocr_routes - INFO - OCR successful for user 6
+2025-11-29 19:47:53,027 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:47:53] "POST /api/ocr HTTP/1.1" 200 -
+2025-11-29 19:47:54,441 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:47:54] "GET /api/health HTTP/1.1" 200 -
+2025-11-29 19:47:58,627 - services.gemini_service - INFO - Gemini OCR successful: extracted 11 characters
+2025-11-29 19:47:58,627 - routes.ocr_routes - INFO - OCR successful for user 6
+2025-11-29 19:47:58,627 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:47:58] "POST /api/ocr HTTP/1.1" 200 -
+2025-11-29 19:48:00,005 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:48:00] "OPTIONS /api/check-conflicts HTTP/1.1" 200 -
+2025-11-29 19:48:00,332 - services.conflict_service - INFO - Analyzing prescription text conflicts with 0 current medications
+2025-11-29 19:48:00,332 - services.conflict_service - INFO - Extracted 0 medicines from prescription text: []
+2025-11-29 19:48:00,332 - services.conflict_service - INFO - Analysis complete: 0 conflicts found, risk level: LOW
+2025-11-29 19:48:00,342 - routes.conflict_routes - INFO - Conflict analysis completed for user 6
+2025-11-29 19:48:00,346 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:48:00] "POST /api/check-conflicts HTTP/1.1" 200 -
+2025-11-29 19:48:12,709 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:48:12] "OPTIONS /auth/logout HTTP/1.1" 200 -
+2025-11-29 19:48:13,068 - services.auth_service - INFO - User logged out successfully
+2025-11-29 19:48:13,086 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:48:13] "POST /auth/logout HTTP/1.1" 200 -
+2025-11-29 19:48:13,293 - werkzeug - INFO - 127.0.0.1 - - [29/Nov/2025 19:48:13] "GET / HTTP/1.1" 200 -
+2025-11-30 14:40:29,071 - __main__ - INFO - Starting SPARD application
+2025-11-30 14:40:29,071 - __main__ - INFO - Configuration loaded successfully
+2025-11-30 14:40:29,076 - __main__ - INFO - SPARD application created successfully
+2025-11-30 14:40:29,076 - __main__ - INFO - Starting SPARD development server
+2025-11-30 14:40:29,076 - __main__ - INFO - Environment: development
+2025-11-30 14:40:29,076 - __main__ - INFO - Debug mode: True
+2025-11-30 14:40:29,095 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-11-30 14:40:29,096 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-30 14:40:29,112 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-30 14:40:30,318 - __main__ - INFO - Starting SPARD application
+2025-11-30 14:40:30,318 - __main__ - INFO - Configuration loaded successfully
+2025-11-30 14:40:30,318 - __main__ - INFO - SPARD application created successfully
+2025-11-30 14:40:30,318 - __main__ - INFO - Starting SPARD development server
+2025-11-30 14:40:30,318 - __main__ - INFO - Environment: development
+2025-11-30 14:40:30,318 - __main__ - INFO - Debug mode: True
+2025-11-30 14:40:30,337 - werkzeug - WARNING -  * Debugger is active!
+2025-11-30 14:40:30,340 - werkzeug - INFO -  * Debugger PIN: 771-594-574
+2025-11-30 14:41:18,297 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 14:41:18] "GET / HTTP/1.1" 200 -
+2025-11-30 14:41:31,617 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 14:41:31] "OPTIONS /auth/login HTTP/1.1" 200 -
+2025-11-30 14:41:32,524 - services.auth_service - INFO - User authenticated successfully: admin@email.com
+2025-11-30 14:41:32,524 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 14:41:32] "POST /auth/login HTTP/1.1" 200 -
+2025-11-30 14:41:33,606 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 14:41:33] "GET / HTTP/1.1" 200 -
+2025-11-30 14:41:33,923 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 14:41:33] "OPTIONS /auth/verify HTTP/1.1" 200 -
+2025-11-30 14:41:34,189 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 14:41:34] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-30 14:41:40,198 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 14:41:40] "GET /api/health HTTP/1.1" 200 -
+2025-11-30 14:41:40,518 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 14:41:40] "OPTIONS /api/ocr HTTP/1.1" 200 -
+2025-11-30 14:41:44,338 - services.gemini_service - INFO - Gemini OCR successful: extracted 11 characters
+2025-11-30 14:41:44,355 - routes.ocr_routes - INFO - OCR successful for user 6
+2025-11-30 14:41:44,356 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 14:41:44] "POST /api/ocr HTTP/1.1" 200 -
+2025-11-30 14:41:51,568 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 14:41:51] "GET /api/health HTTP/1.1" 200 -
+2025-11-30 14:41:51,881 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 14:41:51] "OPTIONS /api/ocr HTTP/1.1" 200 -
+2025-11-30 14:41:55,605 - services.gemini_service - INFO - Gemini OCR successful: extracted 10 characters
+2025-11-30 14:41:55,610 - routes.ocr_routes - INFO - OCR successful for user 6
+2025-11-30 14:41:55,612 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 14:41:55] "POST /api/ocr HTTP/1.1" 200 -
+2025-11-30 14:42:13,659 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 14:42:13] "OPTIONS /api/check-multi-prescription-conflicts HTTP/1.1" 200 -
+2025-11-30 14:42:13,970 - services.conflict_service - INFO - Analyzing conflicts between 1 and 1 medicines
+2025-11-30 14:42:19,320 - services.gemini_service - INFO - Raw Gemini response: ```json
+{
+  "doctorA_medicines": ["clopidogrel"],
+  "doctorB_medicines": ["omeprazole"],
+  "interactions": [
+    {
+      "pair": "clopidogrel + omeprazole",
+      "reason": "Omeprazole is a potent inhibitor of CYP2C19, an enzyme critical for the metabolic activation of clopidogrel into its active antiplatelet form. Co-administration can significantly reduce the antiplatelet effect of clopidogrel, potentially increasing the risk of thrombotic events such as myocardial infarction or stroke, especially in patients with acute coronary syndromes or those undergoing percutaneous coronary intervention with stent placement. The therapeutic effectiveness of clopidogrel may be compromised."
+    }
+  ],
+  "allergy_conflicts": [],
+  "risk_level": "HIGH",
+  "message": "A significant drug-drug interaction exists between clopidogrel and omeprazole, where omeprazole can reduce the effectiveness of clopidogrel by inhibiting its activation, leading to a high risk of adverse cardiovascular events. No direct allergy conflicts were identified with ace_inhibitors."
+}
+```
+2025-11-30 14:42:19,320 - services.gemini_service - INFO - Gemini conflict analysis successful: 1 interactions found
+2025-11-30 14:42:19,320 - services.conflict_service - INFO - Multi-prescription analysis complete: 1 conflicts found, risk level: HIGH
+2025-11-30 14:42:19,320 - routes.conflict_routes - INFO - Multi-prescription Gemini analysis completed for user 6
+2025-11-30 14:42:19,320 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 14:42:19] "POST /api/check-multi-prescription-conflicts HTTP/1.1" 200 -
+2025-11-30 16:49:20,333 - __main__ - INFO - Starting SPARD application
+2025-11-30 16:49:20,333 - __main__ - INFO - Configuration loaded successfully
+2025-11-30 16:49:20,337 - __main__ - INFO - SPARD application created successfully
+2025-11-30 16:49:20,337 - __main__ - INFO - Starting SPARD development server
+2025-11-30 16:49:20,337 - __main__ - INFO - Environment: development
+2025-11-30 16:49:20,337 - __main__ - INFO - Debug mode: True
+2025-11-30 16:49:20,363 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-11-30 16:49:20,363 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-30 16:49:20,388 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-30 16:49:22,056 - __main__ - INFO - Starting SPARD application
+2025-11-30 16:49:22,058 - __main__ - INFO - Configuration loaded successfully
+2025-11-30 16:49:22,058 - __main__ - INFO - SPARD application created successfully
+2025-11-30 16:49:22,058 - __main__ - INFO - Starting SPARD development server
+2025-11-30 16:49:22,058 - __main__ - INFO - Environment: development
+2025-11-30 16:49:22,058 - __main__ - INFO - Debug mode: True
+2025-11-30 16:49:22,066 - werkzeug - WARNING -  * Debugger is active!
+2025-11-30 16:49:22,071 - werkzeug - INFO -  * Debugger PIN: 771-594-574
+2025-11-30 16:49:46,889 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 16:49:46] "[33mGET /api/health HTTP/1.1[0m" 404 -
+2025-11-30 16:49:46,970 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 16:49:46] "OPTIONS /auth/verify HTTP/1.1" 200 -
+2025-11-30 16:49:47,153 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 16:49:47] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-30 16:49:53,568 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 16:49:53] "OPTIONS /auth/logout HTTP/1.1" 200 -
+2025-11-30 16:49:53,902 - services.auth_service - INFO - User logged out successfully
+2025-11-30 16:49:53,902 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 16:49:53] "POST /auth/logout HTTP/1.1" 200 -
+2025-11-30 16:49:54,153 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 16:49:54] "[33mGET /api/health HTTP/1.1[0m" 404 -
+2025-11-30 16:50:01,378 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 16:50:01] "OPTIONS /auth/login HTTP/1.1" 200 -
+2025-11-30 16:50:02,509 - services.auth_service - INFO - User authenticated successfully: admin@email.com
+2025-11-30 16:50:02,509 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 16:50:02] "POST /auth/login HTTP/1.1" 200 -
+2025-11-30 16:50:03,605 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 16:50:03] "[33mGET /api/health HTTP/1.1[0m" 404 -
+2025-11-30 16:50:03,922 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 16:50:03] "OPTIONS /auth/verify HTTP/1.1" 200 -
+2025-11-30 16:50:04,239 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 16:50:04] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-30 16:50:10,850 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 16:50:10] "OPTIONS /api/ocr HTTP/1.1" 200 -
+2025-11-30 16:50:15,221 - routes.ocr_routes - INFO - OCR medicines extracted: ['clopidogrel']
+2025-11-30 16:50:15,221 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 16:50:15] "POST /api/ocr HTTP/1.1" 200 -
+2025-11-30 16:50:35,932 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 16:50:35] "OPTIONS /api/ocr HTTP/1.1" 200 -
+2025-11-30 16:50:39,085 - routes.ocr_routes - INFO - OCR medicines extracted: ['clopidogrel']
+2025-11-30 16:50:39,089 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 16:50:39] "POST /api/ocr HTTP/1.1" 200 -
+2025-11-30 16:51:16,480 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\test_gemini_conflicts.py', reloading
+2025-11-30 16:51:18,998 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-30 16:51:20,866 - __main__ - INFO - Starting SPARD application
+2025-11-30 16:51:20,873 - __main__ - INFO - Configuration loaded successfully
+2025-11-30 16:51:20,875 - __main__ - INFO - SPARD application created successfully
+2025-11-30 16:51:20,875 - __main__ - INFO - Starting SPARD development server
+2025-11-30 16:51:20,875 - __main__ - INFO - Environment: development
+2025-11-30 16:51:20,877 - __main__ - INFO - Debug mode: True
+2025-11-30 16:51:20,883 - werkzeug - WARNING -  * Debugger is active!
+2025-11-30 16:51:20,886 - werkzeug - INFO -  * Debugger PIN: 771-594-574
+2025-11-30 16:57:30,576 - __main__ - INFO - Starting SPARD application
+2025-11-30 16:57:30,576 - __main__ - INFO - Configuration loaded successfully
+2025-11-30 16:57:30,579 - __main__ - INFO - SPARD application created successfully
+2025-11-30 16:57:30,579 - __main__ - INFO - Starting SPARD development server
+2025-11-30 16:57:30,579 - __main__ - INFO - Environment: development
+2025-11-30 16:57:30,579 - __main__ - INFO - Debug mode: True
+2025-11-30 16:57:30,593 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-11-30 16:57:30,593 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-30 16:57:30,599 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-30 16:57:32,325 - __main__ - INFO - Starting SPARD application
+2025-11-30 16:57:32,325 - __main__ - INFO - Configuration loaded successfully
+2025-11-30 16:57:32,328 - __main__ - INFO - SPARD application created successfully
+2025-11-30 16:57:32,328 - __main__ - INFO - Starting SPARD development server
+2025-11-30 16:57:32,328 - __main__ - INFO - Environment: development
+2025-11-30 16:57:32,328 - __main__ - INFO - Debug mode: True
+2025-11-30 16:57:32,328 - werkzeug - WARNING -  * Debugger is active!
+2025-11-30 16:57:32,337 - werkzeug - INFO -  * Debugger PIN: 771-594-574
+2025-11-30 16:57:44,578 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 16:57:44] "[33mGET /api/health HTTP/1.1[0m" 404 -
+2025-11-30 16:57:44,582 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 16:57:44] "OPTIONS /auth/verify HTTP/1.1" 200 -
+2025-11-30 16:57:44,832 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 16:57:44] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-30 16:59:21,283 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 16:59:21] "[33mGET /api/health HTTP/1.1[0m" 404 -
+2025-11-30 16:59:21,287 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 16:59:21] "OPTIONS /auth/verify HTTP/1.1" 200 -
+2025-11-30 16:59:21,550 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 16:59:21] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-30 17:02:00,033 - __main__ - INFO - Starting SPARD application
+2025-11-30 17:02:00,042 - __main__ - INFO - Configuration loaded successfully
+2025-11-30 17:02:00,044 - __main__ - INFO - SPARD application created successfully
+2025-11-30 17:02:00,044 - __main__ - INFO - Starting SPARD development server
+2025-11-30 17:02:00,044 - __main__ - INFO - Environment: development
+2025-11-30 17:02:00,044 - __main__ - INFO - Debug mode: True
+2025-11-30 17:02:00,052 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-11-30 17:02:00,052 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-30 17:02:00,070 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-30 17:02:01,729 - __main__ - INFO - Starting SPARD application
+2025-11-30 17:02:01,730 - __main__ - INFO - Configuration loaded successfully
+2025-11-30 17:02:01,731 - __main__ - INFO - SPARD application created successfully
+2025-11-30 17:02:01,731 - __main__ - INFO - Starting SPARD development server
+2025-11-30 17:02:01,731 - __main__ - INFO - Environment: development
+2025-11-30 17:02:01,731 - __main__ - INFO - Debug mode: True
+2025-11-30 17:02:01,731 - werkzeug - WARNING -  * Debugger is active!
+2025-11-30 17:02:01,742 - werkzeug - INFO -  * Debugger PIN: 771-594-574
+2025-11-30 17:02:19,573 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:02:19] "[33mGET /api/health HTTP/1.1[0m" 404 -
+2025-11-30 17:02:19,668 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:02:19] "OPTIONS /auth/verify HTTP/1.1" 200 -
+2025-11-30 17:02:19,832 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:02:19] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-30 17:02:44,736 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:02:44] "[33mGET /api/health HTTP/1.1[0m" 404 -
+2025-11-30 17:02:45,049 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:02:45] "OPTIONS /auth/verify HTTP/1.1" 200 -
+2025-11-30 17:02:45,305 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:02:45] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-30 17:06:14,903 - __main__ - INFO - Starting SPARD application
+2025-11-30 17:06:14,903 - __main__ - INFO - Configuration loaded successfully
+2025-11-30 17:06:14,903 - __main__ - INFO - SPARD application created successfully
+2025-11-30 17:06:14,903 - __main__ - INFO - Starting SPARD development server
+2025-11-30 17:06:14,903 - __main__ - INFO - Environment: development
+2025-11-30 17:06:14,903 - __main__ - INFO - Debug mode: True
+2025-11-30 17:06:14,919 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-11-30 17:06:14,919 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-30 17:06:14,936 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-30 17:06:16,542 - __main__ - INFO - Starting SPARD application
+2025-11-30 17:06:16,542 - __main__ - INFO - Configuration loaded successfully
+2025-11-30 17:06:16,546 - __main__ - INFO - SPARD application created successfully
+2025-11-30 17:06:16,546 - __main__ - INFO - Starting SPARD development server
+2025-11-30 17:06:16,546 - __main__ - INFO - Environment: development
+2025-11-30 17:06:16,546 - __main__ - INFO - Debug mode: True
+2025-11-30 17:06:16,552 - werkzeug - WARNING -  * Debugger is active!
+2025-11-30 17:06:16,555 - werkzeug - INFO -  * Debugger PIN: 771-594-574
+2025-11-30 17:06:23,337 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:06:23] "GET / HTTP/1.1" 200 -
+2025-11-30 17:06:23,343 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:06:23] "OPTIONS /auth/verify HTTP/1.1" 200 -
+2025-11-30 17:06:23,599 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:06:23] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-30 17:08:14,572 - __main__ - INFO - Starting SPARD application
+2025-11-30 17:08:14,572 - __main__ - INFO - Configuration loaded successfully
+2025-11-30 17:08:14,572 - __main__ - INFO - SPARD application created successfully
+2025-11-30 17:08:14,582 - __main__ - INFO - Starting SPARD development server
+2025-11-30 17:08:14,582 - __main__ - INFO - Environment: development
+2025-11-30 17:08:14,582 - __main__ - INFO - Debug mode: True
+2025-11-30 17:08:14,600 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-11-30 17:08:14,600 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-30 17:08:14,613 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-30 17:08:16,251 - __main__ - INFO - Starting SPARD application
+2025-11-30 17:08:16,251 - __main__ - INFO - Configuration loaded successfully
+2025-11-30 17:08:16,251 - __main__ - INFO - SPARD application created successfully
+2025-11-30 17:08:16,251 - __main__ - INFO - Starting SPARD development server
+2025-11-30 17:08:16,255 - __main__ - INFO - Environment: development
+2025-11-30 17:08:16,255 - __main__ - INFO - Debug mode: True
+2025-11-30 17:08:16,255 - werkzeug - WARNING -  * Debugger is active!
+2025-11-30 17:08:16,264 - werkzeug - INFO -  * Debugger PIN: 771-594-574
+2025-11-30 17:08:19,965 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:08:19] "GET / HTTP/1.1" 200 -
+2025-11-30 17:08:19,970 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:08:19] "OPTIONS /auth/verify HTTP/1.1" 200 -
+2025-11-30 17:08:20,242 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:08:20] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-30 17:08:36,041 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:08:36] "OPTIONS /api/ocr HTTP/1.1" 200 -
+2025-11-30 17:08:39,630 - routes.ocr_routes - INFO - OCR medicines extracted: ['clopidogrel']
+2025-11-30 17:08:39,630 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:08:39] "POST /api/ocr HTTP/1.1" 200 -
+2025-11-30 17:08:44,846 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:08:44] "OPTIONS /api/ocr HTTP/1.1" 200 -
+2025-11-30 17:08:48,607 - routes.ocr_routes - INFO - OCR medicines extracted: ['omeprazole']
+2025-11-30 17:08:48,607 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:08:48] "POST /api/ocr HTTP/1.1" 200 -
+2025-11-30 17:08:52,206 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:08:52] "OPTIONS /api/check-multi-prescription-conflicts HTTP/1.1" 200 -
+2025-11-30 17:08:52,528 - services.conflict_service - INFO - Starting multi-prescription conflict analysis
+2025-11-30 17:09:03,431 - services.gemini_service - INFO - Gemini raw response: <json>
+{
+  "doctorA_medicines": ["clopidogrel"],
+  "doctorB_medicines": ["omeprazole"],
+  "interactions": [
+    {
+      "medicines": ["clopidogrel", "omeprazole"],
+      "explanation": "Omeprazole, a proton pump inhibitor, inhibits the cytochrome P450 2C19 (CYP2C19) enzyme. Clopidogrel is a prodrug that requires activation by CYP2C19. Co-administration of omeprazole with clopidogrel can reduce the formation of clopidogrel's active metabolite, potentially leading to decreased antiplatelet activity and an increased risk of cardiovascular events such as stent thrombosis or myocardial infarction.",
+      "risk_level": "MEDIUM"
+    }
+  ],
+  "allergy_conflicts": [],
+  "risk_level": "MEDIUM",
+  "message": "A clinically significant drug-drug interaction was identified between clopidogrel and omeprazole, which may reduce the effectiveness of clopidogrel. No allergy conflicts were found for 'pencilin' with the given medicines."
+}
+</json>
+2025-11-30 17:09:03,431 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:09:03] "POST /api/check-multi-prescription-conflicts HTTP/1.1" 200 -
+2025-11-30 17:14:27,394 - __main__ - INFO - Starting SPARD application
+2025-11-30 17:14:27,394 - __main__ - INFO - Configuration loaded successfully
+2025-11-30 17:14:27,399 - __main__ - INFO - SPARD application created successfully
+2025-11-30 17:14:27,399 - __main__ - INFO - Starting SPARD development server
+2025-11-30 17:14:27,399 - __main__ - INFO - Environment: development
+2025-11-30 17:14:27,399 - __main__ - INFO - Debug mode: True
+2025-11-30 17:14:27,421 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-11-30 17:14:27,421 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-30 17:14:27,435 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-30 17:14:29,110 - __main__ - INFO - Starting SPARD application
+2025-11-30 17:14:29,110 - __main__ - INFO - Configuration loaded successfully
+2025-11-30 17:14:29,122 - __main__ - INFO - SPARD application created successfully
+2025-11-30 17:14:29,122 - __main__ - INFO - Starting SPARD development server
+2025-11-30 17:14:29,122 - __main__ - INFO - Environment: development
+2025-11-30 17:14:29,122 - __main__ - INFO - Debug mode: True
+2025-11-30 17:14:29,129 - werkzeug - WARNING -  * Debugger is active!
+2025-11-30 17:14:29,132 - werkzeug - INFO -  * Debugger PIN: 771-594-574
+2025-11-30 17:14:36,731 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:14:36] "GET / HTTP/1.1" 200 -
+2025-11-30 17:14:36,731 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:14:36] "OPTIONS /auth/verify HTTP/1.1" 200 -
+2025-11-30 17:14:36,980 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:14:36] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-30 17:14:54,400 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:14:54] "OPTIONS /api/ocr HTTP/1.1" 200 -
+2025-11-30 17:14:59,227 - routes.ocr_routes - INFO - OCR medicines extracted: ['ibuprofen']
+2025-11-30 17:14:59,227 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:14:59] "POST /api/ocr HTTP/1.1" 200 -
+2025-11-30 17:15:02,327 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:15:02] "OPTIONS /api/ocr HTTP/1.1" 200 -
+2025-11-30 17:15:04,961 - routes.ocr_routes - INFO - OCR medicines extracted: ['ibuprofen']
+2025-11-30 17:15:04,961 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:15:04] "POST /api/ocr HTTP/1.1" 200 -
+2025-11-30 17:15:14,574 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:15:14] "OPTIONS /api/ocr HTTP/1.1" 200 -
+2025-11-30 17:15:17,146 - routes.ocr_routes - INFO - OCR medicines extracted: ['ibuprofen']
+2025-11-30 17:15:17,152 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:15:17] "POST /api/ocr HTTP/1.1" 200 -
+2025-11-30 17:15:19,880 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:15:19] "OPTIONS /api/ocr HTTP/1.1" 200 -
+2025-11-30 17:15:23,908 - routes.ocr_routes - INFO - OCR medicines extracted: ['lisinopril']
+2025-11-30 17:15:23,910 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:15:23] "POST /api/ocr HTTP/1.1" 200 -
+2025-11-30 17:15:32,792 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:15:32] "OPTIONS /api/check-multi-prescription-conflicts HTTP/1.1" 200 -
+2025-11-30 17:15:33,111 - services.conflict_service - INFO - Starting multi-prescription conflict analysis
+2025-11-30 17:15:39,779 - services.gemini_service - INFO - Gemini raw response: <json>
+{
+  "doctorA_medicines": ["ibuprofen"],
+  "doctorB_medicines": ["lisinopril"],
+  "interactions": [
+    {
+      "medicine_a": "ibuprofen",
+      "medicine_b": "lisinopril",
+      "explanation": "Ibuprofen, a non-steroidal anti-inflammatory drug (NSAID), can reduce the antihypertensive effect of lisinopril (an ACE inhibitor). This combination also increases the risk of acute kidney injury, particularly in elderly patients, those with pre-existing renal impairment, or individuals who are dehydrated or concurrently taking a diuretic. NSAIDs inhibit prostaglandin synthesis, which can counteract the renal protective and blood pressure-lowering effects of ACE inhibitors.",
+      "risk_level": "HIGH"
+    }
+  ],
+  "allergy_conflicts": [
+    {
+      "medicine": "lisinopril",
+      "allergy": "ace_inhibitors",
+      "explanation": "Lisinopril is an angiotensin-converting enzyme (ACE) inhibitor. The user has a stated allergy to 'ace_inhibitors', indicating a direct conflict with this medication class. Taking lisinopril could lead to a severe allergic reaction.",
+      "risk_level": "HIGH"
+    }
+  ],
+  "risk_level": "HIGH",
+  "message": "There is a clinically significant drug-drug interaction between ibuprofen and lisinopril, which can reduce the effectiveness of lisinopril and increase the risk of kidney damage. Furthermore, lisinopril is an ACE inhibitor, which conflicts directly with the user's stated allergy to ACE inhibitors, posing a high risk of an allergic reaction."
+}
+</json>
+2025-11-30 17:15:39,785 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:15:39] "POST /api/check-multi-prescription-conflicts HTTP/1.1" 200 -
+2025-11-30 17:18:12,499 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:18:12] "OPTIONS /api/check-multi-prescription-conflicts HTTP/1.1" 200 -
+2025-11-30 17:18:12,755 - services.conflict_service - INFO - Starting multi-prescription conflict analysis
+2025-11-30 17:18:21,065 - services.gemini_service - INFO - Gemini raw response: <json>
+{
+  "doctorA_medicines": ["ibuprofen"],
+  "doctorB_medicines": ["lisinopril"],
+  "interactions": [
+    {
+      "drugs": ["ibuprofen", "lisinopril"],
+      "explanation": "Ibuprofen, a non-steroidal anti-inflammatory drug (NSAID), can reduce the blood pressure-lowering effect of lisinopril (an ACE inhibitor). Additionally, co-administration can increase the risk of kidney dysfunction, including acute kidney injury, particularly in patients who are elderly, dehydrated, or have pre-existing kidney problems. This interaction is well-documented by medical authorities such as FDA and UpToDate.",
+      "risk_level": "MEDIUM"
+    }
+  ],
+  "allergy_conflicts": [
+    {
+      "medicine": "lisinopril",
+      "allergy": "ace_inhibitors",
+      "explanation": "Lisinopril is an angiotensin-converting enzyme (ACE) inhibitor. Taking lisinopril with a known allergy to ACE inhibitors is contraindicated and can lead to a severe allergic reaction, such as angioedema, anaphylaxis, or severe rash. This is a direct and serious conflict verified by major medical guidelines.",
+      "risk_level": "HIGH"
+    }
+  ],
+  "risk_level": "HIGH",
+  "message": "There is a HIGH risk allergy conflict with lisinopril due to the user's ACE inhibitor allergy, and a MEDIUM risk drug-drug interaction between ibuprofen and lisinopril. It is critical to consult with a healthcare professional immediately regarding these conflicts."
+}
+</json>
+2025-11-30 17:18:21,067 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:18:21] "POST /api/check-multi-prescription-conflicts HTTP/1.1" 200 -
+2025-11-30 17:18:26,513 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:18:26] "GET / HTTP/1.1" 200 -
+2025-11-30 17:18:26,834 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:18:26] "OPTIONS /auth/verify HTTP/1.1" 200 -
+2025-11-30 17:18:27,101 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:18:27] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-30 17:18:32,107 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:18:32] "OPTIONS /api/ocr HTTP/1.1" 200 -
+2025-11-30 17:18:35,182 - routes.ocr_routes - INFO - OCR medicines extracted: ['ibuprofen']
+2025-11-30 17:18:35,182 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:18:35] "POST /api/ocr HTTP/1.1" 200 -
+2025-11-30 17:18:39,083 - routes.ocr_routes - INFO - OCR medicines extracted: ['lisinopril']
+2025-11-30 17:18:39,083 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:18:39] "POST /api/ocr HTTP/1.1" 200 -
+2025-11-30 17:18:50,599 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:18:50] "OPTIONS /api/check-multi-prescription-conflicts HTTP/1.1" 200 -
+2025-11-30 17:18:50,853 - services.conflict_service - INFO - Starting multi-prescription conflict analysis
+2025-11-30 17:18:56,505 - services.gemini_service - INFO - Gemini raw response: <json>
+{
+  "doctorA_medicines": ["ibuprofen"],
+  "doctorB_medicines": ["lisinopril"],
+  "interactions": [
+    {
+      "medicines": ["ibuprofen", "lisinopril"],
+      "explanation": "Ibuprofen (an NSAID) can reduce the antihypertensive effect of lisinopril (an ACE inhibitor) by inhibiting prostaglandin synthesis. It can also increase the risk of acute kidney injury, especially in patients who are elderly, dehydrated, or have pre-existing kidney impairment.",
+      "risk_level": "MEDIUM"
+    }
+  ],
+  "allergy_conflicts": [
+    {
+      "medicine": "lisinopril",
+      "allergy": "ace_inhibitors",
+      "explanation": "Lisinopril is an ACE inhibitor. Administering lisinopril to a patient with a known allergy to ACE inhibitors could result in a severe allergic reaction.",
+      "risk_level": "HIGH"
+    }
+  ],
+  "risk_level": "HIGH",
+  "message": "There is a significant allergy conflict as lisinopril is an ACE inhibitor and the user has a stated allergy to ACE inhibitors. Additionally, ibuprofen can interact with lisinopril, potentially reducing its effectiveness and increasing the risk of kidney injury."
+}
+</json>
+2025-11-30 17:18:56,507 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:18:56] "POST /api/check-multi-prescription-conflicts HTTP/1.1" 200 -
+2025-11-30 17:21:04,226 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\services\\gemini_service.py', reloading
+2025-11-30 17:21:04,242 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\services\\gemini_service.py', reloading
+2025-11-30 17:21:07,181 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-30 17:21:08,999 - __main__ - INFO - Starting SPARD application
+2025-11-30 17:21:08,999 - __main__ - INFO - Configuration loaded successfully
+2025-11-30 17:21:09,001 - __main__ - INFO - SPARD application created successfully
+2025-11-30 17:21:09,001 - __main__ - INFO - Starting SPARD development server
+2025-11-30 17:21:09,001 - __main__ - INFO - Environment: development
+2025-11-30 17:21:09,001 - __main__ - INFO - Debug mode: True
+2025-11-30 17:21:09,007 - werkzeug - WARNING -  * Debugger is active!
+2025-11-30 17:21:09,007 - werkzeug - INFO -  * Debugger PIN: 771-594-574
+2025-11-30 17:24:37,692 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\services\\gemini_service.py', reloading
+2025-11-30 17:24:37,697 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\services\\gemini_service.py', reloading
+2025-11-30 17:24:37,697 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\services\\gemini_service.py', reloading
+2025-11-30 17:24:37,697 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\services\\gemini_service.py', reloading
+2025-11-30 17:24:38,831 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-30 17:24:40,617 - __main__ - INFO - Starting SPARD application
+2025-11-30 17:24:40,617 - __main__ - INFO - Configuration loaded successfully
+2025-11-30 17:24:40,617 - __main__ - INFO - SPARD application created successfully
+2025-11-30 17:24:40,620 - __main__ - INFO - Starting SPARD development server
+2025-11-30 17:24:40,620 - __main__ - INFO - Environment: development
+2025-11-30 17:24:40,620 - __main__ - INFO - Debug mode: True
+2025-11-30 17:24:40,627 - werkzeug - WARNING -  * Debugger is active!
+2025-11-30 17:24:40,631 - werkzeug - INFO -  * Debugger PIN: 771-594-574
+2025-11-30 17:27:26,701 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:27:26] "GET / HTTP/1.1" 200 -
+2025-11-30 17:27:26,708 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:27:26] "OPTIONS /auth/verify HTTP/1.1" 200 -
+2025-11-30 17:27:26,967 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:27:26] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-30 17:27:31,892 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:27:31] "OPTIONS /api/ocr HTTP/1.1" 200 -
+2025-11-30 17:27:36,181 - routes.ocr_routes - INFO - OCR medicines extracted: ['ibuprofen']
+2025-11-30 17:27:36,183 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:27:36] "POST /api/ocr HTTP/1.1" 200 -
+2025-11-30 17:27:38,332 - routes.ocr_routes - INFO - OCR medicines extracted: ['clopidogrel']
+2025-11-30 17:27:38,334 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:27:38] "POST /api/ocr HTTP/1.1" 200 -
+2025-11-30 17:27:54,798 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:27:54] "OPTIONS /api/check-multi-prescription-conflicts HTTP/1.1" 200 -
+2025-11-30 17:27:55,067 - services.conflict_service - INFO - Starting multi-prescription conflict analysis
+2025-11-30 17:28:03,217 - services.gemini_service - INFO - Gemini raw response: <json>
+{
+  "doctorA_medicines": ["ibuprofen"],
+  "doctorB_medicines": ["clopidogrel"],
+  "interactions": [
+    {
+      "medicine1": "ibuprofen",
+      "medicine2": "clopidogrel",
+      "explanation": "Concomitant use of ibuprofen (a non-steroidal anti-inflammatory drug, NSAID) with clopidogrel (an antiplatelet agent) significantly increases the risk of gastrointestinal bleeding, including serious and potentially fatal hemorrhage. This is due to their combined antiplatelet effects (inhibiting platelet aggregation) and the potential for NSAID-induced gastrointestinal mucosal damage. This combination should generally be avoided or used with extreme caution and appropriate gastroprotective measures under medical supervision.",
+      "risk_level": "HIGH"
+    }
+  ],
+  "allergy_conflicts": [],
+  "risk_level": "HIGH",
+  "message": "A significant drug-drug interaction between ibuprofen and clopidogrel has been identified, carrying a high risk of gastrointestinal bleeding. No direct allergy conflicts were found with the stated 'ace_inhibitors' allergy and the provided medications (ibuprofen, clopidogrel)."
+}
+</json>
+2025-11-30 17:28:03,224 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:28:03] "POST /api/check-multi-prescription-conflicts HTTP/1.1" 200 -
+2025-11-30 17:30:28,099 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\services\\gemini_service.py', reloading
+2025-11-30 17:30:28,099 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\services\\gemini_service.py', reloading
+2025-11-30 17:30:28,099 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\services\\gemini_service.py', reloading
+2025-11-30 17:30:30,568 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-30 17:43:52,823 - __main__ - INFO - Starting SPARD application
+2025-11-30 17:43:52,823 - __main__ - INFO - Configuration loaded successfully
+2025-11-30 17:43:52,823 - __main__ - INFO - SPARD application created successfully
+2025-11-30 17:43:52,823 - __main__ - INFO - Starting SPARD development server
+2025-11-30 17:43:52,823 - __main__ - INFO - Environment: development
+2025-11-30 17:43:52,823 - __main__ - INFO - Debug mode: True
+2025-11-30 17:43:52,839 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-11-30 17:43:52,839 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-30 17:43:52,847 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-30 17:43:54,450 - __main__ - INFO - Starting SPARD application
+2025-11-30 17:43:54,450 - __main__ - INFO - Configuration loaded successfully
+2025-11-30 17:43:54,450 - __main__ - INFO - SPARD application created successfully
+2025-11-30 17:43:54,450 - __main__ - INFO - Starting SPARD development server
+2025-11-30 17:43:54,450 - __main__ - INFO - Environment: development
+2025-11-30 17:43:54,450 - __main__ - INFO - Debug mode: True
+2025-11-30 17:43:54,467 - werkzeug - WARNING -  * Debugger is active!
+2025-11-30 17:43:54,467 - werkzeug - INFO -  * Debugger PIN: 771-594-574
+2025-11-30 17:44:03,676 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:44:03] "GET / HTTP/1.1" 200 -
+2025-11-30 17:44:03,681 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:44:03] "OPTIONS /auth/verify HTTP/1.1" 200 -
+2025-11-30 17:44:03,939 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:44:03] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-30 17:44:09,914 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:44:09] "OPTIONS /api/ocr HTTP/1.1" 200 -
+2025-11-30 17:44:13,976 - routes.ocr_routes - INFO - OCR medicines extracted: ['ibuprofen']
+2025-11-30 17:44:13,976 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:44:13] "POST /api/ocr HTTP/1.1" 200 -
+2025-11-30 17:44:16,403 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:44:16] "OPTIONS /api/ocr HTTP/1.1" 200 -
+2025-11-30 17:44:19,101 - routes.ocr_routes - INFO - OCR medicines extracted: ['lisinopril']
+2025-11-30 17:44:19,105 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:44:19] "POST /api/ocr HTTP/1.1" 200 -
+2025-11-30 17:44:30,796 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:44:30] "OPTIONS /api/check-multi-prescription-conflicts HTTP/1.1" 200 -
+2025-11-30 17:44:31,121 - services.conflict_service - INFO - Starting multi-prescription conflict analysis
+2025-11-30 17:44:37,707 - services.gemini_service - INFO - Gemini raw response: <json>
+{
+  "doctorA_medicines": ["ibuprofen"],
+  "doctorB_medicines": ["lisinopril"],
+  "drug_interactions": [
+    {
+      "medicines": ["ibuprofen", "lisinopril"],
+      "reason": "Concurrent use of an NSAID (ibuprofen) with an ACE inhibitor (lisinopril) can decrease the antihypertensive effect of lisinopril and significantly increase the risk of renal dysfunction, including acute kidney injury, particularly in elderly patients, those with pre-existing renal impairment, or individuals who are volume-depleted.",
+      "severity": "HIGH"
+    }
+  ],
+  "allergy_conflicts": [
+    {
+      "medicine": "lisinopril",
+      "allergy": "ace_inhibitors",
+      "reason": "Lisinopril is an angiotensin-converting enzyme (ACE) inhibitor. Prescribing lisinopril to a patient with a documented allergy to ACE inhibitors carries a high risk of triggering an allergic reaction, which could range from angioedema to anaphylaxis.",
+      "severity": "HIGH"
+    }
+  ],
+  "risk_level": "HIGH",
+  "analysis_summary": "This patient presents with two significant high-severity conflicts. Firstly, the combination of ibuprofen (an NSAID) and lisinopril (an ACE inhibitor) poses a substantial risk for acute kidney injury and can reduce the efficacy of lisinopril in controlling blood pressure. Secondly, lisinopril is contraindicated due to the user's documented allergy to ACE inhibitors, which could precipitate a severe allergic reaction. Both interactions warrant immediate clinical attention and medication review."
+}
+</json>
+2025-11-30 17:44:37,722 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:44:37] "POST /api/check-multi-prescription-conflicts HTTP/1.1" 200 -
+2025-11-30 17:48:28,961 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\services\\gemini_service.py', reloading
+2025-11-30 17:48:28,965 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\services\\gemini_service.py', reloading
+2025-11-30 17:48:31,892 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-30 17:48:35,976 - __main__ - INFO - Starting SPARD application
+2025-11-30 17:48:35,976 - __main__ - INFO - Configuration loaded successfully
+2025-11-30 17:48:35,976 - __main__ - INFO - SPARD application created successfully
+2025-11-30 17:48:35,976 - __main__ - INFO - Starting SPARD development server
+2025-11-30 17:48:35,976 - __main__ - INFO - Environment: development
+2025-11-30 17:48:35,976 - __main__ - INFO - Debug mode: True
+2025-11-30 17:48:35,987 - werkzeug - WARNING -  * Debugger is active!
+2025-11-30 17:48:35,996 - werkzeug - INFO -  * Debugger PIN: 771-594-574
+2025-11-30 17:48:38,074 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\services\\gemini_service.py', reloading
+2025-11-30 17:48:38,080 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\services\\gemini_service.py', reloading
+2025-11-30 17:48:39,254 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-30 17:49:08,583 - __main__ - INFO - Starting SPARD application
+2025-11-30 17:49:08,583 - __main__ - INFO - Configuration loaded successfully
+2025-11-30 17:49:08,590 - __main__ - INFO - SPARD application created successfully
+2025-11-30 17:49:08,590 - __main__ - INFO - Starting SPARD development server
+2025-11-30 17:49:08,590 - __main__ - INFO - Environment: development
+2025-11-30 17:49:08,590 - __main__ - INFO - Debug mode: True
+2025-11-30 17:49:08,609 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-11-30 17:49:08,609 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-30 17:49:08,623 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-30 17:49:10,221 - __main__ - INFO - Starting SPARD application
+2025-11-30 17:49:10,221 - __main__ - INFO - Configuration loaded successfully
+2025-11-30 17:49:10,221 - __main__ - INFO - SPARD application created successfully
+2025-11-30 17:49:10,221 - __main__ - INFO - Starting SPARD development server
+2025-11-30 17:49:10,221 - __main__ - INFO - Environment: development
+2025-11-30 17:49:10,221 - __main__ - INFO - Debug mode: True
+2025-11-30 17:49:10,237 - werkzeug - WARNING -  * Debugger is active!
+2025-11-30 17:49:10,242 - werkzeug - INFO -  * Debugger PIN: 771-594-574
+2025-11-30 17:49:14,276 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:49:14] "GET / HTTP/1.1" 200 -
+2025-11-30 17:49:14,281 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:49:14] "OPTIONS /auth/verify HTTP/1.1" 200 -
+2025-11-30 17:49:14,525 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:49:14] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-30 17:49:25,905 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:49:25] "OPTIONS /api/ocr HTTP/1.1" 200 -
+2025-11-30 17:49:29,373 - routes.ocr_routes - INFO - OCR medicines extracted: ['ibuprofen']
+2025-11-30 17:49:29,373 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:49:29] "POST /api/ocr HTTP/1.1" 200 -
+2025-11-30 17:49:31,291 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:49:31] "OPTIONS /api/ocr HTTP/1.1" 200 -
+2025-11-30 17:49:34,084 - routes.ocr_routes - INFO - OCR medicines extracted: ['lisinopril']
+2025-11-30 17:49:34,084 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:49:34] "POST /api/ocr HTTP/1.1" 200 -
+2025-11-30 17:49:46,465 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:49:46] "OPTIONS /api/check-multi-prescription-conflicts HTTP/1.1" 200 -
+2025-11-30 17:49:46,790 - services.conflict_service - INFO - Starting multi-prescription conflict analysis
+2025-11-30 17:49:53,748 - services.gemini_service - INFO - Gemini raw response: ```json
+{
+  "doctorA_medicines": ["ibuprofen"],
+  "doctorB_medicines": ["lisinopril"],
+
+  "drug_interactions": [
+    {
+      "medicines": ["ibuprofen", "lisinopril"],
+      "reason": "Non-steroidal anti-inflammatory drugs (NSAIDs) like ibuprofen can reduce the antihypertensive effect of ACE inhibitors such as lisinopril by inhibiting prostaglandin synthesis, which can lead to sodium and water retention. More critically, the concurrent use of NSAIDs and ACE inhibitors increases the risk of acute kidney injury, especially in patients who are elderly, volume-depleted, or have pre-existing renal impairment. This combination can lead to a significant decrease in renal perfusion and glomerular filtration rate.",
+      "severity": "HIGH"
+    }
+  ],
+
+  "allergy_conflicts": [
+    {
+      "medicine": "lisinopril",
+      "allergy": "ace_inhibitors",
+      "reason": "Lisinopril is an Angiotensin-Converting Enzyme (ACE) inhibitor. A declared allergy to the ACE inhibitor class means that taking lisinopril could precipitate a severe allergic reaction, which may include symptoms such as angioedema, severe hypotension, rash, or anaphylaxis.",
+      "severity": "HIGH"
+    }
+  ],
+
+  "risk_level": "HIGH",
+  "analysis_summary": "There are significant medical risks associated with the prescribed medications given the user's allergy profile. Lisinopril is an ACE inhibitor, directly conflicting with the stated 'ace_inhibitors' allergy, posing a high risk of a severe allergic reaction. Additionally, the combination of ibuprofen (NSAID) and lisinopril (ACE inhibitor) carries a high risk for acute kidney injury and can reduce the effectiveness of blood pressure control. Both interactions warrant immediate medical review and potential medication adjustment."
+}
+```
+2025-11-30 17:49:53,750 - services.gemini_service - WARNING - JSON parsing failed: JSON block not found in Gemini output
+2025-11-30 17:49:53,753 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:49:53] "POST /api/check-multi-prescription-conflicts HTTP/1.1" 200 -
+2025-11-30 17:50:16,229 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:50:16] "GET / HTTP/1.1" 200 -
+2025-11-30 17:50:16,543 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:50:16] "OPTIONS /auth/verify HTTP/1.1" 200 -
+2025-11-30 17:50:16,811 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:50:16] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-30 17:50:27,993 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:50:27] "OPTIONS /api/ocr HTTP/1.1" 200 -
+2025-11-30 17:50:32,455 - routes.ocr_routes - INFO - OCR medicines extracted: ['ibuprofen']
+2025-11-30 17:50:32,457 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:50:32] "POST /api/ocr HTTP/1.1" 200 -
+2025-11-30 17:50:35,390 - routes.ocr_routes - INFO - OCR medicines extracted: ['lisinopril']
+2025-11-30 17:50:35,390 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:50:35] "POST /api/ocr HTTP/1.1" 200 -
+2025-11-30 17:50:44,264 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:50:44] "OPTIONS /api/check-multi-prescription-conflicts HTTP/1.1" 200 -
+2025-11-30 17:50:44,522 - services.conflict_service - INFO - Starting multi-prescription conflict analysis
+2025-11-30 17:50:52,222 - services.gemini_service - INFO - Gemini raw response: ```json
+{
+  "doctorA_medicines": ["ibuprofen"],
+  "doctorB_medicines": ["lisinopril"],
+
+  "drug_interactions": [
+    {
+      "medicines": ["ibuprofen", "lisinopril"],
+      "reason": "Ibuprofen, a nonsteroidal anti-inflammatory drug (NSAID), can interact with lisinopril, an ACE inhibitor. NSAIDs inhibit prostaglandin synthesis, which can lead to renal vasoconstriction and counteract the vasodilatory effects of ACE inhibitors. This can reduce the antihypertensive effect of lisinopril, potentially increasing blood pressure. Furthermore, in patients with pre-existing renal impairment, dehydration, or congestive heart failure, concurrent use significantly increases the risk of acute kidney injury. Both drugs can also contribute to hyperkalemia (elevated potassium levels), which can be dangerous, especially in susceptible individuals.",
+      "severity": "HIGH"
+    }
+  ],
+
+  "allergy_conflicts": [
+    {
+      "medicine": "lisinopril",
+      "allergy": "ace_inhibitors",
+      "reason": "Lisinopril is an angiotensin-converting enzyme (ACE) inhibitor. A patient with a documented allergy to ACE inhibitors should not be administered lisinopril, as it belongs to the exact drug class to which the patient is allergic. Administering lisinopril would likely trigger the allergic reaction, which can range from a severe cough or rash to life-threatening angioedema (swelling, particularly of the face, lips, tongue, or throat) or anaphylaxis.",
+      "severity": "HIGH"
+    }
+  ],
+
+  "risk_level": "HIGH",
+  "analysis_summary": "There is a HIGH risk due to a direct drug-allergy conflict with lisinopril and ace_inhibitors, meaning lisinopril is contraindicated. Additionally, a significant drug-drug interaction exists between ibuprofen and lisinopril, which can reduce the blood pressure-lowering effect of lisinopril and carries a high risk of acute kidney injury and hyperkalemia, especially in vulnerable patients."
+}
+```
+2025-11-30 17:50:52,222 - services.gemini_service - WARNING - JSON parsing failed: JSON block not found in Gemini output
+2025-11-30 17:50:52,229 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:50:52] "POST /api/check-multi-prescription-conflicts HTTP/1.1" 200 -
+2025-11-30 17:52:55,298 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\services\\gemini_service.py', reloading
+2025-11-30 17:52:55,313 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\services\\gemini_service.py', reloading
+2025-11-30 17:52:58,269 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-30 17:53:23,061 - __main__ - INFO - Starting SPARD application
+2025-11-30 17:53:23,062 - __main__ - INFO - Configuration loaded successfully
+2025-11-30 17:53:23,063 - __main__ - INFO - SPARD application created successfully
+2025-11-30 17:53:23,064 - __main__ - INFO - Starting SPARD development server
+2025-11-30 17:53:23,064 - __main__ - INFO - Environment: development
+2025-11-30 17:53:23,064 - __main__ - INFO - Debug mode: True
+2025-11-30 17:53:23,084 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-11-30 17:53:23,084 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-30 17:53:23,096 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-30 17:53:24,931 - __main__ - INFO - Starting SPARD application
+2025-11-30 17:53:24,931 - __main__ - INFO - Configuration loaded successfully
+2025-11-30 17:53:24,941 - __main__ - INFO - SPARD application created successfully
+2025-11-30 17:53:24,941 - __main__ - INFO - Starting SPARD development server
+2025-11-30 17:53:24,941 - __main__ - INFO - Environment: development
+2025-11-30 17:53:24,941 - __main__ - INFO - Debug mode: True
+2025-11-30 17:53:24,953 - werkzeug - WARNING -  * Debugger is active!
+2025-11-30 17:53:24,953 - werkzeug - INFO -  * Debugger PIN: 771-594-574
+2025-11-30 17:53:34,554 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:53:34] "GET / HTTP/1.1" 200 -
+2025-11-30 17:53:34,563 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:53:34] "OPTIONS /auth/verify HTTP/1.1" 200 -
+2025-11-30 17:53:34,797 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:53:34] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-30 17:53:38,722 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:53:38] "OPTIONS /api/ocr HTTP/1.1" 200 -
+2025-11-30 17:53:42,511 - routes.ocr_routes - INFO - OCR medicines extracted: ['ibuprofen']
+2025-11-30 17:53:42,511 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:53:42] "POST /api/ocr HTTP/1.1" 200 -
+2025-11-30 17:53:44,154 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:53:44] "OPTIONS /api/ocr HTTP/1.1" 200 -
+2025-11-30 17:53:47,227 - routes.ocr_routes - INFO - OCR medicines extracted: ['lisinopril']
+2025-11-30 17:53:47,227 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:53:47] "POST /api/ocr HTTP/1.1" 200 -
+2025-11-30 17:54:00,602 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:54:00] "OPTIONS /api/check-multi-prescription-conflicts HTTP/1.1" 200 -
+2025-11-30 17:54:00,929 - services.conflict_service - INFO - Starting multi-prescription conflict analysis
+2025-11-30 17:54:05,147 - services.gemini_service - INFO - Gemini raw response: <json>
+{
+  "doctorA_medicines": [
+    "ibuprofen"
+  ],
+  "doctorB_medicines": [
+    "lisinopril"
+  ],
+  "drug_interactions": [
+    {
+      "medicines": [
+        "ibuprofen",
+        "lisinopril"
+      ],
+      "reason": "Ibuprofen (an NSAID) can reduce the antihypertensive effect of lisinopril (an ACE inhibitor) and increase the risk of renal impairment, particularly in patients who are elderly, dehydrated, or have pre-existing renal dysfunction.",
+      "severity": "MEDIUM"
+    }
+  ],
+  "allergy_conflicts": [
+    {
+      "medicine": "lisinopril",
+      "allergy": "ace_inhibitors",
+      "reason": "Lisinopril is an angiotensin-converting enzyme (ACE) inhibitor. Prescribing lisinopril to a patient with a known allergy to ACE inhibitors is contraindicated and poses a high risk of an allergic reaction.",
+      "severity": "HIGH"
+    }
+  ],
+  "risk_level": "HIGH",
+  "analysis_summary": "There is a high-risk allergy conflict with lisinopril due to a stated ACE inhibitor allergy. Additionally, a medium-risk drug interaction exists between ibuprofen and lisinopril, which can reduce the effectiveness of lisinopril and increase the risk of renal dysfunction."
+}
+</json>
+2025-11-30 17:54:05,147 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:54:05] "POST /api/check-multi-prescription-conflicts HTTP/1.1" 200 -
+2025-11-30 17:55:41,692 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\services\\gemini_service.py', reloading
+2025-11-30 17:55:41,694 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\services\\gemini_service.py', reloading
+2025-11-30 17:55:44,772 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-30 17:57:55,397 - __main__ - INFO - Starting SPARD application
+2025-11-30 17:57:55,411 - __main__ - INFO - Configuration loaded successfully
+2025-11-30 17:57:55,411 - __main__ - INFO - SPARD application created successfully
+2025-11-30 17:57:55,411 - __main__ - INFO - Starting SPARD development server
+2025-11-30 17:57:55,411 - __main__ - INFO - Environment: development
+2025-11-30 17:57:55,411 - __main__ - INFO - Debug mode: True
+2025-11-30 17:57:55,428 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-11-30 17:57:55,428 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-30 17:57:55,442 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-30 17:57:57,314 - __main__ - INFO - Starting SPARD application
+2025-11-30 17:57:57,317 - __main__ - INFO - Configuration loaded successfully
+2025-11-30 17:57:57,319 - __main__ - INFO - SPARD application created successfully
+2025-11-30 17:57:57,319 - __main__ - INFO - Starting SPARD development server
+2025-11-30 17:57:57,319 - __main__ - INFO - Environment: development
+2025-11-30 17:57:57,319 - __main__ - INFO - Debug mode: True
+2025-11-30 17:57:57,324 - werkzeug - WARNING -  * Debugger is active!
+2025-11-30 17:57:57,327 - werkzeug - INFO -  * Debugger PIN: 771-594-574
+2025-11-30 17:58:09,370 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:58:09] "GET / HTTP/1.1" 200 -
+2025-11-30 17:58:09,370 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:58:09] "OPTIONS /auth/verify HTTP/1.1" 200 -
+2025-11-30 17:58:09,632 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:58:09] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-30 17:58:14,176 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:58:14] "OPTIONS /api/ocr HTTP/1.1" 200 -
+2025-11-30 17:58:18,080 - routes.ocr_routes - INFO - OCR medicines extracted: ['ibuprofen']
+2025-11-30 17:58:18,080 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:58:18] "POST /api/ocr HTTP/1.1" 200 -
+2025-11-30 17:58:24,400 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:58:24] "OPTIONS /api/ocr HTTP/1.1" 200 -
+2025-11-30 17:58:27,294 - routes.ocr_routes - INFO - OCR medicines extracted: ['lisinopril']
+2025-11-30 17:58:27,296 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:58:27] "POST /api/ocr HTTP/1.1" 200 -
+2025-11-30 17:58:39,935 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:58:39] "OPTIONS /api/check-multi-prescription-conflicts HTTP/1.1" 200 -
+2025-11-30 17:58:40,250 - services.conflict_service - INFO - Starting multi-prescription conflict analysis
+2025-11-30 17:58:46,534 - services.gemini_service - INFO - Gemini raw response: <json>
+{
+  "doctorA_medicines": [
+    "ibuprofen"
+  ],
+  "doctorB_medicines": [
+    "lisinopril"
+  ],
+  "drug_interactions": [
+    {
+      "medicines": [
+        "ibuprofen",
+        "lisinopril"
+      ],
+      "reason": "Ibuprofen, a non-steroidal anti-inflammatory drug (NSAID), can reduce the antihypertensive effect of lisinopril, an ACE inhibitor. NSAIDs inhibit prostaglandin synthesis, which can lead to renal vasoconstriction, thereby counteracting the ACE inhibitor's ability to maintain renal blood flow, especially in conditions of reduced effective circulating volume. This increases the risk of acute kidney injury and hyperkalemia when co-administered, particularly in elderly or volume-depleted patients.",
+      "severity": "HIGH"
+    }
+  ],
+  "allergy_conflicts": [
+    {
+      "medicine": "lisinopril",
+      "allergy": "ace_inhibitors",
+      "reason": "Lisinopril is an angiotensin-converting enzyme (ACE) inhibitor. The patient has a documented allergy to ACE inhibitors, which contraindicates the use of lisinopril due to the risk of severe allergic reactions such as angioedema, anaphylaxis, or severe rash.",
+      "severity": "HIGH"
+    }
+  ],
+  "risk_level": "HIGH",
+  "analysis_summary": "There is a severe drug-allergy conflict with lisinopril due to the patient's documented ACE inhibitor allergy, making its use contraindicated. Additionally, the co-administration of ibuprofen and lisinopril presents a high risk of drug-drug interaction, potentially leading to acute kidney injury and blunting the antihypertensive effects of lisinopril."
+}
+</json>
+2025-11-30 17:58:46,540 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 17:58:46] "POST /api/check-multi-prescription-conflicts HTTP/1.1" 200 -
+2025-11-30 18:03:32,262 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\services\\conflict_service.py', reloading
+2025-11-30 18:03:32,269 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\services\\conflict_service.py', reloading
+2025-11-30 18:03:32,269 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\services\\conflict_service.py', reloading
+2025-11-30 18:03:34,465 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-30 18:03:36,190 - __main__ - INFO - Starting SPARD application
+2025-11-30 18:03:36,190 - __main__ - INFO - Configuration loaded successfully
+2025-11-30 18:03:36,196 - __main__ - INFO - SPARD application created successfully
+2025-11-30 18:03:36,196 - __main__ - INFO - Starting SPARD development server
+2025-11-30 18:03:36,196 - __main__ - INFO - Environment: development
+2025-11-30 18:03:36,196 - __main__ - INFO - Debug mode: True
+2025-11-30 18:03:36,198 - werkzeug - WARNING -  * Debugger is active!
+2025-11-30 18:03:36,207 - werkzeug - INFO -  * Debugger PIN: 771-594-574
+2025-11-30 18:04:18,138 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\services\\conflict_service.py', reloading
+2025-11-30 18:04:18,141 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\services\\conflict_service.py', reloading
+2025-11-30 18:04:18,419 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-30 18:04:20,284 - __main__ - INFO - Starting SPARD application
+2025-11-30 18:04:20,284 - __main__ - INFO - Configuration loaded successfully
+2025-11-30 18:04:20,286 - __main__ - INFO - SPARD application created successfully
+2025-11-30 18:04:20,286 - __main__ - INFO - Starting SPARD development server
+2025-11-30 18:04:20,286 - __main__ - INFO - Environment: development
+2025-11-30 18:04:20,286 - __main__ - INFO - Debug mode: True
+2025-11-30 18:04:20,294 - werkzeug - WARNING -  * Debugger is active!
+2025-11-30 18:04:20,297 - werkzeug - INFO -  * Debugger PIN: 771-594-574
+2025-11-30 18:04:21,537 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\services\\conflict_service.py', reloading
+2025-11-30 18:04:21,562 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\services\\conflict_service.py', reloading
+2025-11-30 18:04:21,562 - werkzeug - INFO -  * Detected change in 'D:\\backendss\\prescription-conflict-checker\\backend\\services\\conflict_service.py', reloading
+2025-11-30 18:04:22,494 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-30 18:04:24,411 - __main__ - INFO - Starting SPARD application
+2025-11-30 18:04:24,411 - __main__ - INFO - Configuration loaded successfully
+2025-11-30 18:04:24,415 - __main__ - INFO - SPARD application created successfully
+2025-11-30 18:04:24,415 - __main__ - INFO - Starting SPARD development server
+2025-11-30 18:04:24,415 - __main__ - INFO - Environment: development
+2025-11-30 18:04:24,415 - __main__ - INFO - Debug mode: True
+2025-11-30 18:04:24,415 - werkzeug - WARNING -  * Debugger is active!
+2025-11-30 18:04:24,429 - werkzeug - INFO -  * Debugger PIN: 771-594-574
+2025-11-30 18:05:06,564 - __main__ - INFO - Starting SPARD application
+2025-11-30 18:05:06,564 - __main__ - INFO - Configuration loaded successfully
+2025-11-30 18:05:06,564 - __main__ - INFO - SPARD application created successfully
+2025-11-30 18:05:06,564 - __main__ - INFO - Starting SPARD development server
+2025-11-30 18:05:06,564 - __main__ - INFO - Environment: development
+2025-11-30 18:05:06,564 - __main__ - INFO - Debug mode: True
+2025-11-30 18:05:06,581 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-11-30 18:05:06,581 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-30 18:05:06,592 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-30 18:05:08,218 - __main__ - INFO - Starting SPARD application
+2025-11-30 18:05:08,223 - __main__ - INFO - Configuration loaded successfully
+2025-11-30 18:05:08,223 - __main__ - INFO - SPARD application created successfully
+2025-11-30 18:05:08,223 - __main__ - INFO - Starting SPARD development server
+2025-11-30 18:05:08,226 - __main__ - INFO - Environment: development
+2025-11-30 18:05:08,226 - __main__ - INFO - Debug mode: True
+2025-11-30 18:05:08,226 - werkzeug - WARNING -  * Debugger is active!
+2025-11-30 18:05:08,235 - werkzeug - INFO -  * Debugger PIN: 771-594-574
+2025-11-30 18:05:22,332 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 18:05:22] "GET / HTTP/1.1" 200 -
+2025-11-30 18:05:22,335 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 18:05:22] "OPTIONS /auth/verify HTTP/1.1" 200 -
+2025-11-30 18:05:22,600 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 18:05:22] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-30 18:05:29,440 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 18:05:29] "OPTIONS /api/ocr HTTP/1.1" 200 -
+2025-11-30 18:05:50,128 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 18:05:50] "OPTIONS /api/ocr HTTP/1.1" 200 -
+2025-11-30 18:06:12,539 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 18:06:12] "OPTIONS /auth/logout HTTP/1.1" 200 -
+2025-11-30 18:06:12,869 - services.auth_service - INFO - User logged out successfully
+2025-11-30 18:06:12,872 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 18:06:12] "POST /auth/logout HTTP/1.1" 200 -
+2025-11-30 18:06:13,239 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 18:06:13] "GET / HTTP/1.1" 200 -
+2025-11-30 18:06:29,867 - services.gemini_service - ERROR - Gemini OCR Error: 504 Deadline Exceeded
+2025-11-30 18:06:29,867 - routes.ocr_routes - INFO - OCR medicines extracted: []
+2025-11-30 18:06:29,867 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 18:06:29] "POST /api/ocr HTTP/1.1" 200 -
+2025-11-30 18:06:30,733 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 18:06:30] "GET / HTTP/1.1" 200 -
+2025-11-30 18:06:31,172 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 18:06:31] "GET / HTTP/1.1" 200 -
+2025-11-30 18:06:37,017 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 18:06:37] "OPTIONS /auth/login HTTP/1.1" 200 -
+2025-11-30 18:06:38,199 - services.auth_service - INFO - User authenticated successfully: admin@email.com
+2025-11-30 18:06:38,202 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 18:06:38] "POST /auth/login HTTP/1.1" 200 -
+2025-11-30 18:06:39,286 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 18:06:39] "OPTIONS /auth/verify HTTP/1.1" 200 -
+2025-11-30 18:06:39,596 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 18:06:39] "GET / HTTP/1.1" 200 -
+2025-11-30 18:06:39,606 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 18:06:39] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-30 18:06:46,000 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 18:06:46] "OPTIONS /api/ocr HTTP/1.1" 200 -
+2025-11-30 18:06:50,469 - services.gemini_service - ERROR - Gemini OCR Error: 504 Deadline Exceeded
+2025-11-30 18:06:50,470 - routes.ocr_routes - INFO - OCR medicines extracted: []
+2025-11-30 18:06:50,471 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 18:06:50] "POST /api/ocr HTTP/1.1" 200 -
+2025-11-30 18:07:46,282 - services.gemini_service - ERROR - Gemini OCR Error: 504 Deadline Exceeded
+2025-11-30 18:07:46,282 - routes.ocr_routes - INFO - OCR medicines extracted: []
+2025-11-30 18:07:46,285 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 18:07:46] "POST /api/ocr HTTP/1.1" 200 -
+2025-11-30 18:15:51,968 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 18:15:51] "GET / HTTP/1.1" 200 -
+2025-11-30 18:16:07,832 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 18:16:07] "GET / HTTP/1.1" 200 -
+2025-11-30 18:16:07,933 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 18:16:07] "OPTIONS /auth/verify HTTP/1.1" 200 -
+2025-11-30 18:16:08,109 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 18:16:08] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-30 18:16:09,548 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 18:16:09] "OPTIONS /auth/logout HTTP/1.1" 200 -
+2025-11-30 18:16:09,876 - services.auth_service - INFO - User logged out successfully
+2025-11-30 18:16:09,876 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 18:16:09] "POST /auth/logout HTTP/1.1" 200 -
+2025-11-30 18:16:10,127 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 18:16:10] "GET / HTTP/1.1" 200 -
+2025-11-30 18:16:27,367 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 18:16:27] "OPTIONS /auth/login HTTP/1.1" 200 -
+2025-11-30 18:16:28,522 - services.auth_service - INFO - User authenticated successfully: admin@email.com
+2025-11-30 18:16:28,523 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 18:16:28] "POST /auth/login HTTP/1.1" 200 -
+2025-11-30 18:16:29,576 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 18:16:29] "GET / HTTP/1.1" 200 -
+2025-11-30 18:16:29,881 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 18:16:29] "OPTIONS /auth/verify HTTP/1.1" 200 -
+2025-11-30 18:16:30,195 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 18:16:30] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-30 18:16:41,453 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 18:16:41] "OPTIONS /api/ocr HTTP/1.1" 200 -
+2025-11-30 18:16:44,943 - routes.ocr_routes - INFO - OCR medicines extracted: ['ibuprofen']
+2025-11-30 18:16:44,945 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 18:16:44] "POST /api/ocr HTTP/1.1" 200 -
+2025-11-30 18:16:54,862 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 18:16:54] "OPTIONS /api/ocr HTTP/1.1" 200 -
+2025-11-30 18:16:57,843 - routes.ocr_routes - INFO - OCR medicines extracted: ['lisinopril']
+2025-11-30 18:16:57,845 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 18:16:57] "POST /api/ocr HTTP/1.1" 200 -
+2025-11-30 18:17:08,991 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 18:17:08] "OPTIONS /api/check-multi-prescription-conflicts HTTP/1.1" 200 -
+2025-11-30 18:17:09,312 - services.conflict_service - INFO - Starting multi-prescription conflict analysis
+2025-11-30 18:17:15,259 - services.gemini_service - INFO - Gemini raw response: <json>
+{
+  "doctorA_medicines": [
+    "ibuprofen"
+  ],
+  "doctorB_medicines": [
+    "lisinopril"
+  ],
+  "drug_interactions": [
+    {
+      "medicines": [
+        "ibuprofen",
+        "lisinopril"
+      ],
+      "reason": "Ibuprofen, a nonsteroidal anti-inflammatory drug (NSAID), can significantly reduce the antihypertensive effect of lisinopril, an ACE inhibitor. NSAIDs inhibit prostaglandin synthesis, which can lead to vasoconstriction, particularly in the renal afferent arteriole, thereby decreasing renal blood flow and glomerular filtration rate. This antagonism can counteract the beneficial renal and antihypertensive effects of ACE inhibitors and increase the risk of acute kidney injury, especially in patients who are elderly, dehydrated, or have pre-existing renal impairment.",
+      "severity": "HIGH"
+    }
+  ],
+  "allergy_conflicts": [
+    {
+      "medicine": "lisinopril",
+      "allergy": "ace_inhibitors",
+      "reason": "Lisinopril is an angiotensin-converting enzyme (ACE) inhibitor. A stated allergy to 'ace_inhibitors' means that administering lisinopril would directly conflict with this allergy. Allergic reactions to ACE inhibitors can range from skin rashes to severe, potentially life-threatening angioedema (swelling of the face, lips, tongue, or throat) and anaphylaxis.",
+      "severity": "HIGH"
+    }
+  ],
+  "risk_level": "HIGH",
+  "analysis_summary": "There are significant clinical concerns including a high-severity drug-drug interaction between ibuprofen and lisinopril, increasing the risk of acute kidney injury and reduced blood pressure control. Additionally, lisinopril directly conflicts with the patient's stated 'ace_inhibitors' allergy, posing a high risk for severe allergic reactions such as angioedema."
+}
+</json>
+2025-11-30 18:17:15,262 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 18:17:15] "POST /api/check-multi-prescription-conflicts HTTP/1.1" 200 -
+2025-11-30 18:17:32,241 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 18:17:32] "OPTIONS /api/ocr HTTP/1.1" 200 -
+2025-11-30 18:17:35,423 - routes.ocr_routes - INFO - OCR medicines extracted: ['ibuprofen']
+2025-11-30 18:17:35,425 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 18:17:35] "POST /api/ocr HTTP/1.1" 200 -
+2025-11-30 18:17:41,474 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 18:17:41] "OPTIONS /api/ocr HTTP/1.1" 200 -
+2025-11-30 18:17:44,322 - routes.ocr_routes - INFO - OCR medicines extracted: ['lisinopril']
+2025-11-30 18:17:44,324 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 18:17:44] "POST /api/ocr HTTP/1.1" 200 -
+2025-11-30 18:17:56,046 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 18:17:56] "OPTIONS /api/check-multi-prescription-conflicts HTTP/1.1" 200 -
+2025-11-30 18:17:56,368 - services.conflict_service - INFO - Starting multi-prescription conflict analysis
+2025-11-30 18:18:01,852 - services.gemini_service - INFO - Gemini raw response: <json>
+{
+  "doctorA_medicines": ["ibuprofen"],
+  "doctorB_medicines": ["lisinopril"],
+  "drug_interactions": [
+    {
+      "medicines": ["ibuprofen", "lisinopril"],
+      "reason": "NSAIDs (ibuprofen) can reduce the antihypertensive effect of ACE inhibitors (lisinopril) by inhibiting prostaglandin synthesis, which plays a role in blood pressure regulation and renal blood flow. This combination can also increase the risk of renal dysfunction, particularly in elderly, volume-depleted, or renally impaired patients.",
+      "severity": "HIGH"
+    }
+  ],
+  "allergy_conflicts": [
+    {
+      "medicine": "lisinopril",
+      "allergy": "ace_inhibitors",
+      "reason": "Lisinopril is an Angiotensin-Converting Enzyme (ACE) inhibitor. The patient has a verified allergy to ACE inhibitors, which could lead to severe hypersensitivity reactions such as angioedema, rash, or severe cough upon administration.",
+      "severity": "HIGH"
+    }
+  ],
+  "risk_level": "HIGH",
+  "analysis_summary": "There is a high risk due to both a verified drug-allergy conflict and a significant drug-drug interaction. The patient has an allergy to ACE inhibitors, directly conflicting with lisinopril. Furthermore, the co-administration of ibuprofen with lisinopril can reduce lisinopril's efficacy and increase the risk of acute kidney injury."
+}
+</json>
+2025-11-30 18:18:01,857 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 18:18:01] "POST /api/check-multi-prescription-conflicts HTTP/1.1" 200 -
+2025-11-30 18:18:39,994 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 18:18:39] "OPTIONS /auth/logout HTTP/1.1" 200 -
+2025-11-30 18:18:40,325 - services.auth_service - INFO - User logged out successfully
+2025-11-30 18:18:40,328 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 18:18:40] "POST /auth/logout HTTP/1.1" 200 -
+2025-11-30 18:18:40,573 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 18:18:40] "GET / HTTP/1.1" 200 -
+2025-11-30 19:12:09,003 - __main__ - INFO - Starting SPARD application
+2025-11-30 19:12:09,003 - __main__ - INFO - Configuration loaded successfully
+2025-11-30 19:12:09,005 - __main__ - INFO - SPARD application created successfully
+2025-11-30 19:12:09,009 - __main__ - INFO - Starting SPARD development server
+2025-11-30 19:12:09,010 - __main__ - INFO - Environment: development
+2025-11-30 19:12:09,010 - __main__ - INFO - Debug mode: True
+2025-11-30 19:12:09,028 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-11-30 19:12:09,028 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-30 19:12:09,049 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-30 19:12:10,824 - __main__ - INFO - Starting SPARD application
+2025-11-30 19:12:10,824 - __main__ - INFO - Configuration loaded successfully
+2025-11-30 19:12:10,824 - __main__ - INFO - SPARD application created successfully
+2025-11-30 19:12:10,824 - __main__ - INFO - Starting SPARD development server
+2025-11-30 19:12:10,824 - __main__ - INFO - Environment: development
+2025-11-30 19:12:10,824 - __main__ - INFO - Debug mode: True
+2025-11-30 19:12:10,835 - werkzeug - WARNING -  * Debugger is active!
+2025-11-30 19:12:10,839 - werkzeug - INFO -  * Debugger PIN: 771-594-574
+2025-11-30 19:14:32,012 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:14:32] "GET / HTTP/1.1" 200 -
+2025-11-30 19:14:42,268 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:14:42] "OPTIONS /auth/login HTTP/1.1" 200 -
+2025-11-30 19:14:43,465 - services.auth_service - INFO - User authenticated successfully: admin@email.com
+2025-11-30 19:14:43,465 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:14:43] "POST /auth/login HTTP/1.1" 200 -
+2025-11-30 19:14:44,537 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:14:44] "GET / HTTP/1.1" 200 -
+2025-11-30 19:14:44,848 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:14:44] "OPTIONS /auth/verify HTTP/1.1" 200 -
+2025-11-30 19:14:45,155 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:14:45] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-30 19:15:29,829 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:15:29] "OPTIONS /api/ocr HTTP/1.1" 200 -
+2025-11-30 19:15:34,125 - routes.ocr_routes - INFO - OCR medicines extracted: ['ibuprofen']
+2025-11-30 19:15:34,125 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:15:34] "POST /api/ocr HTTP/1.1" 200 -
+2025-11-30 19:15:37,505 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:15:37] "OPTIONS /api/ocr HTTP/1.1" 200 -
+2025-11-30 19:15:43,181 - routes.ocr_routes - INFO - OCR medicines extracted: ['lisinopril']
+2025-11-30 19:15:43,181 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:15:43] "POST /api/ocr HTTP/1.1" 200 -
+2025-11-30 19:16:09,543 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:16:09] "OPTIONS /api/check-multi-prescription-conflicts HTTP/1.1" 200 -
+2025-11-30 19:16:09,857 - services.conflict_service - INFO - Starting multi-prescription conflict analysis
+2025-11-30 19:16:16,724 - services.gemini_service - INFO - Gemini raw response: <json>
+{
+  "doctorA_medicines": [
+    "ibuprofen"
+  ],
+  "doctorB_medicines": [
+    "lisinopril"
+  ],
+  "drug_interactions": [
+    {
+      "medicines": [
+        "ibuprofen",
+        "lisinopril"
+      ],
+      "reason": "Non-steroidal anti-inflammatory drugs (NSAIDs) such as ibuprofen can reduce the antihypertensive effects of angiotensin-converting enzyme (ACE) inhibitors like lisinopril by inhibiting prostaglandin synthesis, which can lead to sodium and water retention. This combination also increases the risk of renal dysfunction, particularly in elderly, volume-depleted, or renally impaired patients, by interfering with renal blood flow autoregulation.",
+      "severity": "HIGH"
+    }
+  ],
+  "allergy_conflicts": [
+    {
+      "medicine": "ibuprofen",
+      "allergy": "salycilate",
+      "reason": "Ibuprofen is a non-steroidal anti-inflammatory drug (NSAID). Patients with a salicylate allergy (e.g., aspirin allergy) have a significant risk of cross-reactivity with other NSAIDs due to shared mechanisms of cyclooxygenase (COX) inhibition. This can precipitate hypersensitivity reactions such as urticaria, angioedema, bronchospasm, or anaphylaxis.",
+      "severity": "HIGH"
+    }
+  ],
+  "risk_level": "HIGH",
+  "analysis_summary": "There is a high-risk allergy conflict between ibuprofen and salicylate due to potential cross-reactivity, which could lead to severe hypersensitivity reactions. Furthermore, a high-severity drug-drug interaction exists between ibuprofen and lisinopril, potentially reducing blood pressure control and significantly increasing the risk of acute kidney injury."
+}
+</json>
+2025-11-30 19:16:16,728 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:16:16] "POST /api/check-multi-prescription-conflicts HTTP/1.1" 200 -
+2025-11-30 19:20:09,146 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:20:09] "GET / HTTP/1.1" 200 -
+2025-11-30 19:20:09,157 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:20:09] "OPTIONS /auth/verify HTTP/1.1" 200 -
+2025-11-30 19:20:09,415 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:20:09] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-30 19:21:17,318 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:21:17] "GET / HTTP/1.1" 200 -
+2025-11-30 19:21:17,334 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:21:17] "OPTIONS /auth/verify HTTP/1.1" 200 -
+2025-11-30 19:21:17,574 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:21:17] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-30 19:21:18,879 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:21:18] "GET / HTTP/1.1" 200 -
+2025-11-30 19:21:19,191 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:21:19] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-30 19:21:19,887 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:21:19] "GET / HTTP/1.1" 200 -
+2025-11-30 19:21:19,891 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:21:19] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-30 19:21:51,648 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:21:51] "GET / HTTP/1.1" 200 -
+2025-11-30 19:21:51,952 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:21:51] "OPTIONS /auth/verify HTTP/1.1" 200 -
+2025-11-30 19:21:52,273 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:21:52] "GET / HTTP/1.1" 200 -
+2025-11-30 19:21:52,492 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:21:52] "GET / HTTP/1.1" 200 -
+2025-11-30 19:21:52,492 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:21:52] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-30 19:21:52,708 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:21:52] "GET / HTTP/1.1" 200 -
+2025-11-30 19:21:52,708 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:21:52] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-30 19:21:52,907 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:21:52] "GET / HTTP/1.1" 200 -
+2025-11-30 19:21:52,912 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:21:52] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-30 19:21:53,122 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:21:53] "GET / HTTP/1.1" 200 -
+2025-11-30 19:21:53,122 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:21:53] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-30 19:21:53,356 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:21:53] "GET / HTTP/1.1" 200 -
+2025-11-30 19:21:53,356 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:21:53] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-30 19:21:53,560 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:21:53] "GET / HTTP/1.1" 200 -
+2025-11-30 19:21:53,560 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:21:53] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-30 19:21:53,818 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:21:53] "GET / HTTP/1.1" 200 -
+2025-11-30 19:21:53,822 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:21:53] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-30 19:21:54,036 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:21:54] "GET / HTTP/1.1" 200 -
+2025-11-30 19:21:54,041 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:21:54] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-30 19:21:54,246 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:21:54] "GET / HTTP/1.1" 200 -
+2025-11-30 19:21:54,252 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:21:54] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-30 19:21:54,472 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:21:54] "GET / HTTP/1.1" 200 -
+2025-11-30 19:21:54,473 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:21:54] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-30 19:22:09,514 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:22:09] "GET / HTTP/1.1" 200 -
+2025-11-30 19:22:09,517 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:22:09] "OPTIONS /auth/verify HTTP/1.1" 200 -
+2025-11-30 19:22:09,839 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:22:09] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-30 19:22:10,164 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:22:10] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-30 19:22:10,473 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:22:10] "GET / HTTP/1.1" 200 -
+2025-11-30 19:22:10,708 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:22:10] "GET / HTTP/1.1" 200 -
+2025-11-30 19:22:10,708 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:22:10] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-30 19:23:44,436 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:23:44] "GET / HTTP/1.1" 200 -
+2025-11-30 19:23:44,442 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:23:44] "OPTIONS /auth/verify HTTP/1.1" 200 -
+2025-11-30 19:23:44,685 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:23:44] "POST /auth/verify HTTP/1.1" 200 -
+2025-11-30 19:24:13,087 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:24:13] "GET / HTTP/1.1" 200 -
+2025-11-30 19:24:13,393 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:24:13] "OPTIONS /auth/verify HTTP/1.1" 200 -
+2025-11-30 19:24:13,717 - werkzeug - INFO - 127.0.0.1 - - [30/Nov/2025 19:24:13] "POST /auth/verify HTTP/1.1" 200 -
+2026-02-08 19:18:23,713 - __main__ - INFO - Starting SPARD application
+2026-02-08 19:18:23,713 - __main__ - INFO - Configuration loaded successfully
+2026-02-08 19:18:23,715 - __main__ - INFO - SPARD application created successfully
+2026-02-08 19:18:23,715 - __main__ - INFO - Starting SPARD development server
+2026-02-08 19:18:23,715 - __main__ - INFO - Environment: development
+2026-02-08 19:18:23,715 - __main__ - INFO - Debug mode: True
+2026-02-08 19:18:23,749 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2026-02-08 19:18:23,750 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-02-08 19:18:23,765 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2026-02-08 19:18:25,177 - __main__ - INFO - Starting SPARD application
+2026-02-08 19:18:25,177 - __main__ - INFO - Configuration loaded successfully
+2026-02-08 19:18:25,193 - __main__ - INFO - SPARD application created successfully
+2026-02-08 19:18:25,193 - __main__ - INFO - Starting SPARD development server
+2026-02-08 19:18:25,193 - __main__ - INFO - Environment: development
+2026-02-08 19:18:25,193 - __main__ - INFO - Debug mode: True
+2026-02-08 19:18:25,193 - werkzeug - WARNING -  * Debugger is active!
+2026-02-08 19:18:25,210 - werkzeug - INFO -  * Debugger PIN: 631-997-612
+2026-02-08 19:20:39,847 - werkzeug - INFO - 127.0.0.1 - - [08/Feb/2026 19:20:39] "GET / HTTP/1.1" 200 -
+2026-02-08 19:21:20,769 - werkzeug - INFO - 127.0.0.1 - - [08/Feb/2026 19:21:20] "OPTIONS /auth/login HTTP/1.1" 200 -
+2026-02-08 19:21:21,037 - werkzeug - INFO - 127.0.0.1 - - [08/Feb/2026 19:21:21] "[31m[1mPOST /auth/login HTTP/1.1[0m" 401 -
+2026-02-08 19:22:08,439 - werkzeug - INFO - 127.0.0.1 - - [08/Feb/2026 19:22:08] "OPTIONS /auth/signup HTTP/1.1" 200 -
+2026-02-08 19:22:09,387 - models.database - INFO - User created successfully: ID 7
+2026-02-08 19:22:09,387 - services.auth_service - INFO - User registered successfully: admin1@email.com
+2026-02-08 19:22:09,402 - werkzeug - INFO - 127.0.0.1 - - [08/Feb/2026 19:22:09] "[35m[1mPOST /auth/signup HTTP/1.1[0m" 201 -
+2026-02-08 19:22:29,084 - werkzeug - INFO - 127.0.0.1 - - [08/Feb/2026 19:22:29] "OPTIONS /auth/login HTTP/1.1" 200 -
+2026-02-08 19:22:30,087 - services.auth_service - INFO - User authenticated successfully: admin1@email.com
+2026-02-08 19:22:30,087 - werkzeug - INFO - 127.0.0.1 - - [08/Feb/2026 19:22:30] "POST /auth/login HTTP/1.1" 200 -
+2026-02-08 19:22:31,396 - werkzeug - INFO - 127.0.0.1 - - [08/Feb/2026 19:22:31] "GET / HTTP/1.1" 200 -
+2026-02-08 19:22:31,720 - werkzeug - INFO - 127.0.0.1 - - [08/Feb/2026 19:22:31] "OPTIONS /auth/verify HTTP/1.1" 200 -
+2026-02-08 19:22:31,988 - werkzeug - INFO - 127.0.0.1 - - [08/Feb/2026 19:22:31] "POST /auth/verify HTTP/1.1" 200 -
+2026-02-08 19:22:57,268 - werkzeug - INFO - 127.0.0.1 - - [08/Feb/2026 19:22:57] "OPTIONS /api/ocr HTTP/1.1" 200 -
+2026-02-08 19:23:01,202 - routes.ocr_routes - INFO - OCR medicines extracted: ['ibuprofen']
+2026-02-08 19:23:01,202 - werkzeug - INFO - 127.0.0.1 - - [08/Feb/2026 19:23:01] "POST /api/ocr HTTP/1.1" 200 -
+2026-02-08 19:23:34,135 - werkzeug - INFO - 127.0.0.1 - - [08/Feb/2026 19:23:34] "GET / HTTP/1.1" 200 -
+2026-02-08 19:23:34,135 - werkzeug - INFO - 127.0.0.1 - - [08/Feb/2026 19:23:34] "OPTIONS /auth/verify HTTP/1.1" 200 -
+2026-02-08 19:23:34,394 - werkzeug - INFO - 127.0.0.1 - - [08/Feb/2026 19:23:34] "POST /auth/verify HTTP/1.1" 200 -
+2026-02-08 19:23:40,715 - werkzeug - INFO - 127.0.0.1 - - [08/Feb/2026 19:23:40] "OPTIONS /api/ocr HTTP/1.1" 200 -
+2026-02-08 19:23:44,435 - routes.ocr_routes - INFO - OCR medicines extracted: ['aspirin']
+2026-02-08 19:23:44,436 - werkzeug - INFO - 127.0.0.1 - - [08/Feb/2026 19:23:44] "POST /api/ocr HTTP/1.1" 200 -
+2026-02-08 19:24:10,131 - werkzeug - INFO - 127.0.0.1 - - [08/Feb/2026 19:24:10] "OPTIONS /api/ocr HTTP/1.1" 200 -
+2026-02-08 19:24:13,900 - routes.ocr_routes - INFO - OCR medicines extracted: ['azithromycin']
+2026-02-08 19:24:13,900 - werkzeug - INFO - 127.0.0.1 - - [08/Feb/2026 19:24:13] "POST /api/ocr HTTP/1.1" 200 -
+2026-02-08 19:24:16,656 - werkzeug - INFO - 127.0.0.1 - - [08/Feb/2026 19:24:16] "OPTIONS /api/check-multi-prescription-conflicts HTTP/1.1" 200 -
+2026-02-08 19:24:16,965 - services.conflict_service - INFO - Starting multi-prescription conflict analysis
+2026-02-08 19:24:21,401 - services.gemini_service - INFO - Gemini raw response: <json>
+{
+  "doctorA_medicines": [
+    "aspirin"
+  ],
+  "doctorB_medicines": [
+    "azithromycin"
+  ],
+  "drug_interactions": [],
+  "allergy_conflicts": [],
+  "risk_level": "LOW",
+  "analysis_summary": "No significant drug-drug interactions or drug-allergy conflicts were identified for the provided medications and patient allergies."
+}
+</json>
+2026-02-08 19:24:21,407 - werkzeug - INFO - 127.0.0.1 - - [08/Feb/2026 19:24:21] "POST /api/check-multi-prescription-conflicts HTTP/1.1" 200 -

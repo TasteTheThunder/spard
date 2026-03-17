@@ -1,8 +1,4 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
+* { margin: 0; padding: 0; box-sizing: border-box; }
 
 body {
     font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
@@ -61,9 +57,7 @@ header::before {
     z-index: 2;
 }
 
-.header-main {
-    flex: 1;
-}
+.header-main { flex: 1; }
 
 .header-main h1 {
     font-size: 3rem;
@@ -80,10 +74,7 @@ header::before {
     max-width: 600px;
 }
 
-.header-actions {
-    display: flex;
-    align-items: center;
-}
+.header-actions { display: flex; align-items: center; }
 
 .user-info {
     display: flex;
@@ -211,13 +202,8 @@ header::before {
     box-shadow: none;
 }
 
-.allergies-display {
-    display: none;
-}
-
-.allergies-display.show {
-    display: block;
-}
+.allergies-display { display: none; }
+.allergies-display.show { display: block; }
 
 .allergies-list {
     display: flex;
@@ -265,9 +251,7 @@ header::before {
     background: linear-gradient(135deg, #fef2f2 0%, #ffffff 100%);
 }
 
-.user-allergy h3 {
-    color: #dc2626;
-}
+.user-allergy h3 { color: #dc2626; }
 
 .conflict-item.urgent {
     background: linear-gradient(135deg, #fef3c7 0%, #fef7cd 100%);
@@ -337,9 +321,7 @@ header::before {
     cursor: pointer;
 }
 
-.upload-content {
-    pointer-events: none;
-}
+.upload-content { pointer-events: none; }
 
 .upload-icon {
     font-size: 3.5rem;
@@ -631,68 +613,288 @@ header::before {
     font-weight: 600;
 }
 
-/* Footer */
-footer {
-    text-align: center;
-    padding: 32px;
-    color: #64748b;
-    background: linear-gradient(135deg, #f8fafc 0%, #ffffff 100%);
+/* Modern Medical Footer */
+.modern-footer {
+    background: linear-gradient(135deg, #1e293b 0%, #334155 50%, #475569 100%);
+    color: #e2e8f0;
     margin-top: 48px;
     border-radius: 20px;
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+    overflow: hidden;
+    position: relative;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.15);
 }
 
-footer p {
-    font-weight: 600;
+.modern-footer::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: linear-gradient(90deg, #10b981 0%, #3b82f6 50%, #8b5cf6 100%);
+}
+
+.footer-container {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    padding: 32px 24px 24px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.footer-brand {
+    text-align: center;
+    margin-bottom: 24px;
+}
+
+.footer-logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    margin-bottom: 12px;
+}
+
+.logo-icon {
+    font-size: 2rem;
+}
+
+.logo-text {
+    font-size: 1.75rem;
+    font-weight: 800;
+    color: #ffffff;
+    letter-spacing: -0.02em;
+}
+
+.footer-tagline {
+    color: #cbd5e1;
     font-size: 1rem;
+    font-weight: 500;
+    margin-bottom: 16px;
+}
+
+.footer-badges {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 24px;
+}
+
+.badge {
+    padding: 6px 12px;
+    border-radius: 50px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    transition: all 0.3s ease;
+}
+
+.badge.ai-powered {
+    background: linear-gradient(135deg, #8b5cf6 0%, #a855f7 100%);
+    color: white;
+}
+
+.badge.secure {
+    background: linear-gradient(135deg, #10b981 0%, #059669 100%);
+    color: white;
+}
+
+.badge.verified {
+    background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%);
+    color: white;
+}
+
+.badge:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 25px rgba(0,0,0,0.2);
+}
+
+.footer-links {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 32px;
+    margin-bottom: 24px;
+}
+
+.footer-column {
+    text-align: center;
+    min-width: 180px;
+}
+
+.footer-column h4 {
+    color: #ffffff;
+    font-size: 1rem;
+    font-weight: 700;
+    margin-bottom: 12px;
+    padding-bottom: 8px;
+    border-bottom: 2px solid #475569;
+}
+
+.footer-column ul {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.footer-column a {
+    color: #cbd5e1;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 0.875rem;
+    transition: all 0.3s ease;
+    padding: 2px 4px;
+    border-radius: 4px;
+}
+
+.footer-column a:hover {
+    color: #10b981;
+    background: rgba(16, 185, 129, 0.1);
+}
+
+.footer-bottom {
+    border-top: 1px solid #475569;
+    padding: 20px 24px;
+    background: rgba(0,0,0,0.1);
+}
+
+.footer-disclaimer {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 16px 20px;
+    background: linear-gradient(135deg, #dc2626 0%, #ef4444 100%);
+    border-radius: 12px;
+    margin-bottom: 16px;
+    color: white;
+    text-align: left;
+}
+
+.disclaimer-icon {
+    font-size: 1.25rem;
+    flex-shrink: 0;
+}
+
+.disclaimer-text {
+    font-size: 0.875rem;
+    line-height: 1.5;
+}
+
+.disclaimer-text strong {
+    font-weight: 700;
+    color: #fef2f2;
+}
+
+.footer-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 12px;
+    color: #94a3b8;
+    font-size: 0.8rem;
+    text-align: center;
+}
+
+.emergency-contact {
+    background: linear-gradient(135deg, #dc2626 0%, #ef4444 100%);
+    color: white;
+    padding: 6px 12px;
+    border-radius: 50px;
+    font-weight: 700;
+    font-size: 0.75rem;
+    animation: emergencyPulse 2s infinite;
+}
+
+@keyframes emergencyPulse {
+    0%, 100% { transform: scale(1); }
+    50% { transform: scale(1.05); }
+}
+
+/* Footer Responsive Design */
+@media (max-width: 768px) {
+    .footer-links {
+        flex-direction: column;
+        gap: 24px;
+    }
+    
+    .footer-column {
+        min-width: auto;
+    }
+    
+    .footer-meta {
+        flex-direction: column;
+        text-align: center;
+        gap: 12px;
+    }
+    
+    .footer-disclaimer {
+        flex-direction: column;
+        text-align: center;
+        gap: 8px;
+    }
+    
+    .footer-bottom {
+        padding: 16px 20px;
+    }
+    
+    .modern-footer {
+        margin-top: 32px;
+    }
 }
 
 /* Responsive Design */
 @media (max-width: 768px) {
+
     .upload-section {
         grid-template-columns: 1fr;
         gap: 24px;
     }
-    
+
     .container {
         padding: 16px;
     }
-    
+
     .header-content {
         flex-direction: column;
         text-align: center;
         gap: 20px;
     }
-    
+
     .header-main h1 {
         font-size: 2.5rem;
     }
-    
+
     .user-info {
         flex-direction: column;
         gap: 12px;
         padding: 16px 24px;
     }
-    
+
     .action-section {
         flex-direction: column;
         align-items: center;
         gap: 16px;
     }
-    
+
     .check-btn, .clear-btn {
         width: 100%;
         max-width: 300px;
     }
-    
+
     .allergy-input-container {
         flex-direction: column;
     }
-    
+
     .add-btn {
         width: 100%;
     }
-    
+
     .allergy-section, .doctor-upload, .results-section {
         padding: 24px;
     }

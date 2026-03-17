@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Logout Test</title>
+</head>
+<body>
+    <h1>Logout Test Page</h1>
+    
+    <div>
+        <h2>Current User Data</h2>
+        <pre id="userData">Loading...</pre>
+    </div>
+    
+    <div>
+        <button id="testLogout">Test Logout</button>
+        <button id="clearStorage">Clear Storage Only</button>
+    </div>
+    
+    <div>
+        <h2>Test Results</h2>
+        <pre id="results"></pre>
+    </div>
+
+    <script src="js/services/api.js"></script>
+    
+    <script>
+        // Display current user data
+        function updateDisplay() {
+            const currentUser = localStorage.getItem('currentUser');
+            document.getElementById('userData').textContent = currentUser || 'No user data';
+        }
+        
+        function log(message) {
+            const results = document.getElementById('results');
+            results.textContent += new Date().toLocaleTimeString() + ': ' + message + '\n';
+        }
+        
+        // Test logout
+        document.getElementById('testLogout').addEventListener('click', async () => {
+            log('Starting logout test...');
+            
+            try {
+                const currentUser = localStorage.getItem('currentUser');
+                if (!currentUser) {
+                    log('No user data found in localStorage');
+                    return;
+                }
+                
+                const userData = JSON.parse(currentUser);
+                log('User data: ' + JSON.stringify(userData, null, 2));
+                
+                if (!userData.session_id) {
+                    log('No session_id found');
+                    return;
+                }
+                
+                log('Calling backend logout...');
+                const result = await window.apiService.logout(userData.session_id);
+                log('Backend logout result: ' + JSON.stringify(result, null, 2));
+                
+                log('Clearing localStorage...');
+                localStorage.clear();
+                updateDisplay();
+                
+                log('Logout test completed successfully');
+                
+            } catch (error) {
+                log('Logout error: ' + error.message);
+                console.error('Full error:', error);
+            }
+        });
+        
+        // Clear storage only
+        document.getElementById('clearStorage').addEventListener('click', () => {
+            localStorage.clear();
+            updateDisplay();
+            log('Storage cleared');
+        });
+        
+        // Initial display
+        updateDisplay();
+        
+        // Check if API service is available
+        if (window.apiService) {
+            log('API service is available');
+        } else {
+            log('API service is NOT available');
+        }
+    </script>
+</body>
+</html>

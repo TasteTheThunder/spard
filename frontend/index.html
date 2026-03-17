@@ -3,33 +3,35 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Prescription Conflict Checker</title>
-    <link rel="stylesheet" href="style.css">
+    <title>SPARD - Prescription Conflict Checker</title>
+    <link rel="stylesheet" href="css/main.css">
     <script src='https://unpkg.com/tesseract.js@v5.0.0/dist/tesseract.min.js'></script>
 </head>
 <body>
     <div class="container">
-        <header>
-            <div class="header-content">
-                <div class="header-main">
-                    <h1>🏥 SPARD</h1>
-                    <p>Smart Prescription Analysis & Risk Detection - Upload prescriptions from two different doctors to check for drug interactions</p>
-                </div>
-                <div class="header-actions">
-                    <div class="user-info" id="userInfo">
-                        <span id="userName">Welcome!</span>
-                        <button id="logoutBtn" class="logout-btn">Logout</button>
-                    </div>
+    <header>
+        <div class="header-content">
+            <div class="header-main">
+                <h1>🏥 SPARD</h1>
+                <p>Smart Prescription Analysis & Risk Detection</p>
+            </div>
+            <div class="header-actions">
+                <div class="user-info" id="userInfo">
+                    <span id="userName">Welcome!</span>
+                    <!-- Logout Button -->
+                    <button id="logoutBtn" class="logout-btn">Logout</button>
                 </div>
             </div>
-        </header>
+        </div>
+    </header>
+
 
         <!-- User Allergies Section -->
         <div class="allergy-section">
             <h2>🚫 Your Known Allergies</h2>
-            <p>Enter your known allergies. The system will check if prescribed medicines have contraindications for your specific allergies in our medical database.</p>
+            <p>Enter your known allergies for personalized conflict checking.</p>
             <div class="allergy-input-container">
-                <input type="text" id="allergyInput" placeholder="Enter allergy (e.g., Penicillin, Aspirin, etc.)" />
+                <input type="text" id="allergyInput" placeholder="Enter allergy (e.g., Penicillin, Aspirin)" />
                 <button id="addAllergyBtn" class="add-btn">Add Allergy</button>
             </div>
             <div class="allergies-display" id="allergiesDisplay">
@@ -46,8 +48,8 @@
                         <div class="upload-content">
                             <div class="upload-icon">📄</div>
                             <div class="upload-text">
-                                <strong>Click to upload</strong> or drag and drop
-                                <br>PNG, JPG, JPEG files only
+                                <strong>Click to upload</strong> or drag and drop<br>
+                                PNG, JPG, JPEG files only
                             </div>
                         </div>
                     </label>
@@ -65,8 +67,8 @@
                         <div class="upload-content">
                             <div class="upload-icon">📄</div>
                             <div class="upload-text">
-                                <strong>Click to upload</strong> or drag and drop
-                                <br>PNG, JPG, JPEG files only
+                                <strong>Click to upload</strong> or drag and drop<br>
+                                PNG, JPG, JPEG files only
                             </div>
                         </div>
                     </label>
@@ -99,100 +101,55 @@
         </div>
     </div>
 
-    <footer>
-        <p>⚠️ This tool is for informational purposes only. Always consult healthcare professionals before making medication decisions.</p>
+    <footer class="modern-footer">
+        <div class="footer-container">
+            <div class="footer-brand">
+                <div class="footer-logo">
+                    <span class="logo-icon">🏥</span>
+                    <span class="logo-text">SPARD</span>
+                </div>
+                <p class="footer-tagline">Smart Prescription Analysis & Risk Detection</p>
+                <div class="footer-badges">
+                    <span class="badge ai-powered">🤖 AI-Powered</span>
+                    <span class="badge secure">🔒 Secure</span>
+                    <span class="badge verified">✅ Verified</span>
+                </div>
+            </div>
+        </div>
+        
+        <div class="footer-bottom">
+            <div class="footer-disclaimer">
+                <div class="disclaimer-text">
+                    <strong>Medical Disclaimer:</strong> This tool is for informational purposes only. 
+                    Always consult qualified healthcare professionals for medical decisions. 
+                    SPARD does not replace professional medical advice, diagnosis, or treatment.
+                </div>
+            </div>
+            
+            <div class="footer-meta">
+                <p>&copy; 2025 SPARD - Smart Prescription Analysis. All rights reserved.</p>
+                <div class="footer-social">
+                    <span class="emergency-contact">🚨 Emergency: Call 911</span>
+                </div>
+            </div>
+        </div>
     </footer>
 
-    <script src="script.js"></script>
-    <script>
-        // Authentication check with SQLite backend
-        document.addEventListener('DOMContentLoaded', async function() {
-            await checkAuthentication();
-        });
-        
-        async function checkAuthentication() {
-            const savedUser = localStorage.getItem('currentUser');
-            
-            if (!savedUser) {
-                redirectToLogin();
-                return;
-            }
-            
-            try {
-                const userData = JSON.parse(savedUser);
-                
-                if (!userData.session_id) {
-                    redirectToLogin();
-                    return;
-                }
-                
-                // Verify session with backend
-                const response = await fetch('http://localhost:5000/auth/verify', {
-                    method: 'POST',
-                    headers: {
-                        'Content-Type': 'application/json',
-                    },
-                    body: JSON.stringify({
-                        session_id: userData.session_id
-                    })
-                });
-                
-                if (!response.ok) {
-                    // Session expired or invalid
-                    localStorage.removeItem('currentUser');
-                    redirectToLogin();
-                    return;
-                }
-                
-                // Session is valid, display user info
-                document.getElementById('userName').textContent = `Welcome, ${userData.name}!`;
-                
-                // Setup logout functionality
-                document.getElementById('logoutBtn').addEventListener('click', handleLogout);
-                
-            } catch (error) {
-                console.error('Authentication error:', error);
-                localStorage.removeItem('currentUser');
-                redirectToLogin();
-            }
-        }
-        
-        async function handleLogout() {
-            const savedUser = localStorage.getItem('currentUser');
-            
-            if (savedUser) {
-                try {
-                    const userData = JSON.parse(savedUser);
-                    
-                    if (userData.session_id) {
-                        // Logout from backend
-                        await fetch('http://localhost:5000/auth/logout', {
-                            method: 'POST',
-                            headers: {
-                                'Content-Type': 'application/json',
-                            },
-                            body: JSON.stringify({
-                                session_id: userData.session_id
-                            })
-                        });
-                    }
-                } catch (error) {
-                    console.error('Logout error:', error);
-                }
-            }
-            
-            // Clear all user and session data
-            localStorage.removeItem('currentUser');
-            localStorage.removeItem('lastSessionId');
-            localStorage.removeItem('doctorA');
-            localStorage.removeItem('doctorB');
-            localStorage.removeItem('userAllergies');
-            redirectToLogin();
-        }
-        
-        function redirectToLogin() {
-            window.location.href = 'login.html';
-        }
-    </script>
+    <!-- SERVICES FIRST -->
+    <script src="js/services/storage.js"></script>
+    <script src="js/services/api.js"></script>
+
+    <!-- COMPONENTS NEXT -->
+    <script src="js/components/auth.js"></script>
+    <script src="js/components/medicine.js"></script>
+    <script src="js/components/ocr.js"></script>
+    <script src="js/components/conflict.js"></script>
+
+    <!-- 🔥 allergy.js MUST be loaded BEFORE app.js -->
+    <script src="js/components/allergy.js"></script>
+
+    <!-- MAIN APP ALWAYS LAST -->
+    <script src="js/components/app.js"></script>
+
 </body>
 </html>
